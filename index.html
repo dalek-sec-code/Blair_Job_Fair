@@ -3,79 +3,77 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CareerLink Job Fair</title>
+  <title>PA CareerLink® Job Fair | April 1, 2026</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; }
-    .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
-    .hero { position: relative; height: 70vh; min-height: 500px; background: #003087; overflow: hidden; }
-    .hero img { width: 100%; height: 100%; object-fit: cover; opacity: 0.8; }
-    .hero-content { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white; z-index: 2; background: rgba(0,0,0,0.4); padding: 30px; border-radius: 15px; }
-    .hero img.logo { width: 180px; height: 180px; margin: 0 auto 20px; border-radius: 10px; display: block; }
-    h1 { font-size: 3em; margin-bottom: 10px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); }
-    .details { font-size: 1.3em; margin-bottom: 20px; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); }
-    .btn { display: inline-block; background: #28a745; color: white; padding: 15px 30px; text-decoration: none; border-radius: 50px; font-weight: bold; margin-top: 20px; transition: all 0.3s; text-shadow: none; }
-    .btn:hover { background: #218838; transform: scale(1.05); }
-    section { padding: 60px 0; }
-    .about, .schedule { background: #f8f9fa; }
-    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 30px; margin-top: 40px; }
-    .card { background: white; padding: 30px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); text-align: center; transition: transform 0.3s; }
-    .card:hover { transform: translateY(-5px); }
-    #register iframe { width: 100%; height: 600px; border: none; border-radius: 10px; box-shadow: 0 5px 20px rgba(0,0,0,0.1); }
-    footer { background: #333; color: white; text-align: center; padding: 30px 0; }
-    @media (max-width: 768px) { h1 { font-size: 2.2em; } .details { font-size: 1.1em; } .hero-content { padding: 20px; } }
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; }
+    .hero { 
+      width: 100%; 
+      max-width: 1000px; 
+      margin: 0 auto; 
+      padding: 20px 0; 
+      display: flex; 
+      justify-content: center; 
+      align-items: center; 
+      min-height: 100vh; 
+    }
+    .hero img { 
+      width: 100%; 
+      height: auto; 
+      max-height: 90vh; 
+      object-fit: contain; /* Shows FULL image, no crop */
+      box-shadow: 0 20px 60px rgba(0,0,0,0.3); 
+      border-radius: 15px; 
+    }
+    .cta { 
+      text-align: center; 
+      padding: 40px 20px; 
+      background: linear-gradient(135deg, #003087, #0056b3); 
+      color: white; 
+    }
+    .cta h2 { font-size: 2.5em; margin-bottom: 20px; }
+    .btn { 
+      display: inline-block; 
+      background: #28a745; 
+      color: white; 
+      padding: 18px 40px; 
+      text-decoration: none; 
+      border-radius: 50px; 
+      font-weight: bold; 
+      font-size: 1.3em; 
+      box-shadow: 0 10px 30px rgba(40,167,69,0.4); 
+      transition: all 0.3s; 
+    }
+    .btn:hover { background: #218838; transform: translateY(-5px); }
+    footer { 
+      background: #333; 
+      color: white; 
+      text-align: center; 
+      padding: 30px; 
+      font-size: 1.1em; 
+    }
+    @media (max-width: 768px) { 
+      .hero img { border-radius: 10px; padding: 10px; } 
+      .cta h2 { font-size: 2em; }
+    }
   </style>
 </head>
 <body>
+  <!-- FULL FLYER HERO - No crop, perfect aspect ratio -->
   <div class="hero">
-    <img src="Job Fair Flyer TV Board.png" alt="CareerLink Job Fair Flyer">
-    <div class="hero-content">
-      <img src="logo.png" alt="CareerLink Logo" class="logo">
-      <h1>PA CareerLink® Job Fair</h1>
-      <p class="details">Hosted by PA CareerLink® Blair County<br>
-      <strong>Wednesday, April 1, 2026</strong><br>10:00 AM - 2:00 PM | Altoona, PA</p>
-      <a href="https://forms.office.com/g/ik3yaehY1P" class="btn">Pre‑Register Now</a>
-    </div>
+    <img src="Job Fair Flyer TV Board.png" alt="PA CareerLink Job Fair Flyer - All Details">
   </div>
 
-  <section class="container about">
-    <h2 style="text-align: center; margin-bottom: 40px;">Why Attend?</h2>
-    <div class="grid">
-      <div class="card">
-        <h3>✅ No Cost</h3>
-        <p>Open to job seekers & veterans.</p>
-      </div>
-      <div class="card">
-        <h3>🎯 On‑the‑Spot Interviews</h3>
-        <p>85+ employers hiring now.</p>
-      </div>
-      <div class="card">
-        <h3>⚡ Pre‑Register</h3>
-        <p>Get priority access & updates.</p>
-      </div>
-    </div>
+  <!-- SIMPLE CTA -->
+  <section class="cta">
+    <h2>Have questions?</h2>
+    <a href="jrazo@pa.gov?subject=April 1 Job Fair Questions&body=Name:%0DPhone:%0DVeteran?%0DInterests:" class="btn">Email Us</a>
+    <p style="margin-top: 20px; opacity: 0.9;">No cost • Veterans prioritized • 85+ employers</p>
   </section>
 
-  <section id="register" class="container">
-    <h2 style="text-align: center; margin-bottom: 40px;">Pre‑Register (Recommended)</h2>
-    <!-- REPLACE WITH GOOGLE FORM IFRAME -->
-    <div style="text-align: center;">
-      <p><strong>Quick RSVP Form Coming Soon</strong></p>
-      <a href="mailto:info@careerlinkblair.org?subject=April 1 Job Fair RSVP&body=Name: %0DPhone: %0DInterests:" class="btn">RSVP via Email</a>
-    </div>
-  </section>
-
-  <section class="container schedule">
-    <h2 style="text-align: center;">Event Details</h2>
-    <div style="max-width: 800px; margin: 40px auto; font-size: 1.1em; text-align: center;">
-      <p><strong>10:00 AM - 10:30 AM:</strong> Veterans Priority Entry</p>
-      <p><strong>Partners:</strong> Blair County SWIB • NRMP • Blair County</p>
-      <p>Ask front desk for exact venue/directions on day‑of.</p>
-    </div>
-  </section>
-
-  <footer class="container">
-    <p>PA CareerLink Blair County | Free event for job seekers</p>
+  <footer>
+    <p>PA CareerLink® Blair County | Wednesday, April 1, 2026 | Altoona, PA<br>
+    <small>Scan QR code on flyer for instant mobile access</small></p>
   </footer>
 </body>
 </html>

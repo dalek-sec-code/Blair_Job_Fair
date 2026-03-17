@@ -357,13 +357,12 @@
   <script>
     // Placeholder directory data for V1 map interactions.
     const employers = [
-      { name: "Altoona Health Systems", table: "A-12", industry: "Healthcare", booth: { x: 23, y: 32, w: 9, h: 10 } },
-      { name: "Blue Ridge Logistics", table: "B-04", industry: "Transportation", booth: { x: 48, y: 57, w: 10, h: 9 } },
-      { name: "Central Tech Solutions", table: "C-08", industry: "Technology", booth: { x: 69, y: 35, w: 9, h: 11 } },
-      { name: "Keystone Manufacturing", table: "D-11", industry: "Manufacturing", booth: { x: 38, y: 24, w: 10, h: 9 } },
-      { name: "Summit Financial Group", table: "E-02", industry: "Finance", booth: { x: 58, y: 69, w: 10, h: 10 } },
-      { name: "Valley Public Services", table: "F-06", industry: "Public Service", booth: { x: 15, y: 63, w: 11, h: 10 } }
-    ].sort((a, b) => a.name.localeCompare(b.name));
+  { name: "PA Army National Guard", table: "1", industry: "Military" },
+  { name: "CATA", table: "26", industry: "Transportation" },
+  { name: "UPMC Altoona", table: "43", industry: "Healthcare" },
+  { name: "New Pig Corporation", table: "65", industry: "Manufacturing" },
+  { name: "Reliance Bank", table: "75", industry: "Finance" }
+].sort((a, b) => a.name.localeCompare(b.name));
 
     const searchInput = document.getElementById("searchInput");
     const industryFilter = document.getElementById("industryFilter");
@@ -397,15 +396,22 @@
     }
 
     function setHighlight(employer) {
-      boothHighlight.style.display = "block";
-      boothHighlight.style.left = `${employer.booth.x}%`;
-      boothHighlight.style.top = `${employer.booth.y}%`;
-      boothHighlight.style.width = `${employer.booth.w}%`;
-      boothHighlight.style.height = `${employer.booth.h}%`;
-      selectionStatus.textContent = `Selected: ${employer.name} (Table ${employer.table}, ${employer.industry}).`;
-      liveRegion.textContent = `${employer.name} selected. Highlighting table ${employer.table} on the map.`;
-    }
+  if (!employer.booth) {
+    boothHighlight.style.display = "none";
+    selectionStatus.textContent = `Selected: ${employer.name} (Table ${employer.table}, ${employer.industry}).`;
+    liveRegion.textContent = `${employer.name} selected. Booth location not mapped yet.`;
+    return;
+  }
 
+  boothHighlight.style.display = "block";
+  boothHighlight.style.left = `${employer.booth.x}%`;
+  boothHighlight.style.top = `${employer.booth.y}%`;
+  boothHighlight.style.width = `${employer.booth.w}%`;
+  boothHighlight.style.height = `${employer.booth.h}%`;
+
+  selectionStatus.textContent = `Selected: ${employer.name} (Table ${employer.table}, ${employer.industry}).`;
+  liveRegion.textContent = `${employer.name} selected. Highlighting table ${employer.table} on the map.`;
+}
     function clearHighlight() {
       boothHighlight.style.display = "none";
       selectionStatus.textContent = "No employer selected yet.";

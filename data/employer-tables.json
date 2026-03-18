@@ -599,7 +599,7 @@
     "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 73.3,
-      "y": 58.5,
+      "y": 36.5,
       "w": 3.0,
       "h": 3.8
     }
@@ -610,7 +610,7 @@
     "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 73.3,
-      "y": 36.5,
+      "y": 40.1,
       "w": 3.0,
       "h": 3.8
     }
@@ -621,7 +621,7 @@
     "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 73.3,
-      "y": 40.1,
+      "y": 43.7,
       "w": 3.0,
       "h": 3.8
     }
@@ -632,7 +632,7 @@
     "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 73.3,
-      "y": 43.7,
+      "y": 47.5,
       "w": 3.0,
       "h": 3.8
     }
@@ -643,7 +643,7 @@
     "industry": "Healthcare / Human Services",
     "booth": {
       "x": 73.3,
-      "y": 47.5,
+      "y": 51.2,
       "w": 3.0,
       "h": 3.8
     }
@@ -654,7 +654,7 @@
     "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 73.3,
-      "y": 51.2,
+      "y": 54.7,
       "w": 3.0,
       "h": 3.8
     }
@@ -665,7 +665,7 @@
     "industry": "Media/Communications",
     "booth": {
       "x": 73.3,
-      "y": 54.7,
+      "y": 58.5,
       "w": 3.0,
       "h": 3.8
     }

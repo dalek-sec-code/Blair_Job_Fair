@@ -770,9 +770,9 @@
     }
   },
   {
-    "name": "Penn Highlands Healthcare",
+    "name": "New Enterprise Stone & Lime Co. Inc.",
     "table": "71",
-    "industry": "Healthcare / Human Services",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 63.7,
       "y": 65.8,
@@ -781,9 +781,9 @@
     }
   },
   {
-    "name": "New Enterprise Stone & Lime Co. Inc.",
+    "name": "Penn Highlands Healthcare",
     "table": "72",
-    "industry": "Manufacturing / Skilled Trades",
+    "industry": "Healthcare / Suman Services",
     "booth": {
       "x": 63.4,
       "y": 61.6,

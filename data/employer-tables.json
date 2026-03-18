@@ -499,8 +499,8 @@
     "table": "82",
     "industry": "Manufacturing, Construction, and Utilities",
     "booth": {
-      "x": 60.3,
-      "y": 51.2,
+      "x": 86.3,
+      "y": 36.5,
       "w": 3.0,
       "h": 3.8
     }
@@ -939,8 +939,8 @@
     "table": "86",
     "industry": "Education and Public Administration",
     "booth": {
-      "x": 86.3,
-      "y": 36.5,
+      "x": 60.3,
+      "y": 50.2,
       "w": 3.0,
       "h": 3.8
     }

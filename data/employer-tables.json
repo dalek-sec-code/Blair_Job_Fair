@@ -33,7 +33,7 @@
     }
   },
   {
-    "name": "PA State Police - Liquor Control Enforcement",
+    "name": "PA State Police - Liquor Control Enforcement Board",
     "table": "4",
     "industry": "Government, Military, & Law and Order",
     "booth": {
@@ -495,8 +495,8 @@
     }
   },
   {
-    "name": "EASRCC Eastern Atlantic States Regional Council of",
-    "table": "46",
+    "name": "EASRCC Eastern Atlantic States Regional Council of Carpenters",
+    "table": "82",
     "industry": "Manufacturing, Construction, and Utilities",
     "booth": {
       "x": 60.3,
@@ -715,7 +715,7 @@
     }
   },
   {
-    "name": "Midtown Oaks Health & Rehab & The Villages of Midtown",
+    "name": "Midtown Oaks Health & Rehab & The Villages of Midtown Oaks",
     "table": "66",
     "industry": "Healthcare and Social Assistance",
     "booth": {
@@ -771,7 +771,7 @@
   },
   {
     "name": "Penn Highlands Healthcare",
-    "table": "71",
+    "table": "72",
     "industry": "Healthcare and Social Assistance",
     "booth": {
       "x": 63.7,
@@ -782,7 +782,7 @@
   },
   {
     "name": "New Enterprise Stone & Lime Co. Inc.",
-    "table": "72",
+    "table": "71",
     "industry": "Manufacturing, Construction, and Utilities",
     "booth": {
       "x": 63.4,
@@ -892,7 +892,7 @@
   },
   {
     "name": "Stuckey Automotive",
-    "table": "82",
+    "table": "46",
     "industry": "Transportation, Logistics, and Agriculture",
     "booth": {
       "x": 81.3,
@@ -958,7 +958,7 @@
   },
   {
     "name": "Traditional Home Health Care",
-    "table": "88",
+    "table": "91",
     "industry": "Healthcare and Social Assistance",
     "booth": {
       "x": 91.8,
@@ -969,7 +969,7 @@
   },
   {
     "name": "Vitro Automotive",
-    "table": "89",
+    "table": "90",
     "industry": "Manufacturing, Construction, and Utilities",
     "booth": {
       "x": 91.8,
@@ -980,7 +980,7 @@
   },
   {
     "name": "Wright Knox Motor Lines Inc.",
-    "table": "90",
+    "table": "89",
     "industry": "Transportation, Logistics, and Agriculture",
     "booth": {
       "x": 91.8,
@@ -991,7 +991,7 @@
   },
   {
     "name": "Focus Behavioral Health Inc",
-    "table": "91",
+    "table": "88",
     "industry": "Healthcare and Social Assistance",
     "booth": {
       "x": 91.8,
@@ -1067,7 +1067,7 @@
     }
   },
   {
-    "name": "Office Of Unemployment Compensation/Trade Navigator",
+    "name": "Office Of Unemployment Compensation/Rapid Response Navigator",
     "table": "P1",
     "industry": "Government, Military, & Law and Order",
     "booth": {

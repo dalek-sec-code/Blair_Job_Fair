@@ -2,7 +2,7 @@
   {
     "name": "PA Army National Guard",
     "table": "1",
-    "industry": "Government, Military, & Law and Order",
+    "industry": "Government / Public Service",
     "booth": {
       "x": 14.7,
       "y": 40.6,
@@ -13,7 +13,7 @@
   {
     "name": "PA Dept of Corrections",
     "table": "2",
-    "industry": "Government, Military, & Law and Order",
+    "industry": "Government / Public Service",
     "booth": {
       "x": 14.7,
       "y": 44.3,
@@ -24,7 +24,7 @@
   {
     "name": "PA State Police",
     "table": "3",
-    "industry": "Government, Military, & Law and Order",
+    "industry": "Government / Public Service",
     "booth": {
       "x": 14.7,
       "y": 47.8,
@@ -33,9 +33,9 @@
     }
   },
   {
-    "name": "PA State Police - Liquor Control Enforcement Board",
+    "name": "PA State Police - Liquor Control Enforcement",
     "table": "4",
-    "industry": "Government, Military, & Law and Order",
+    "industry": "Government / Public Service",
     "booth": {
       "x": 14.7,
       "y": 51.5,
@@ -46,7 +46,7 @@
   {
     "name": "City of Altoona",
     "table": "5",
-    "industry": "Government, Military, & Law and Order",
+    "industry": "Government / Public Service",
     "booth": {
       "x": 17.7,
       "y": 54.8,
@@ -57,7 +57,7 @@
   {
     "name": "Altoona Police Department",
     "table": "6",
-    "industry": "Government, Military, & Law and Order",
+    "industry": "Government / Public Service",
     "booth": {
       "x": 17.7,
       "y": 58.5,
@@ -68,7 +68,7 @@
   {
     "name": "Altoona Area School District",
     "table": "7",
-    "industry": "Education and Public Administration",
+    "industry": "Education / Training",
     "booth": {
       "x": 23.4,
       "y": 36.5,
@@ -79,7 +79,7 @@
   {
     "name": "Staff Management",
     "table": "8",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 23.4,
       "y": 40.1,
@@ -90,7 +90,7 @@
   {
     "name": "A4TD",
     "table": "9",
-    "industry": "Education and Public Administration",
+    "industry": "Education / Training",
     "booth": {
       "x": 23.4,
       "y": 43.7,
@@ -101,7 +101,7 @@
   {
     "name": "ACRP Blair",
     "table": "10",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 23.4,
       "y": 47.5,
@@ -112,7 +112,7 @@
   {
     "name": "Advantage Resource Group",
     "table": "11",
-    "industry": "Staffing",
+    "industry": "Staffing / Recruiting",
     "booth": {
       "x": 23.4,
       "y": 51.2,
@@ -123,7 +123,7 @@
   {
     "name": "Aerotek",
     "table": "12",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 23.4,
       "y": 54.7,
@@ -134,7 +134,7 @@
   {
     "name": "Aging With Comfort",
     "table": "13",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 23.4,
       "y": 58.5,
@@ -145,7 +145,7 @@
   {
     "name": "Integrity Construction & Windows",
     "table": "14",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 31.9,
       "y": 36.5,
@@ -156,7 +156,7 @@
   {
     "name": "Altoona Arthritis & Osteoporosis Center and Altoona Center for Clinical Research",
     "table": "15",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 31.9,
       "y": 40.1,
@@ -167,7 +167,7 @@
   {
     "name": "American Eagle Paper Mill",
     "table": "16",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 31.9,
       "y": 43.7,
@@ -178,7 +178,7 @@
   {
     "name": "America's Home Health Services",
     "table": "17",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 31.9,
       "y": 47.5,
@@ -189,7 +189,7 @@
   {
     "name": "Applied Counseling and Consulting Services",
     "table": "18",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 31.9,
       "y": 51.2,
@@ -200,7 +200,7 @@
   {
     "name": "Arcadia Homecare",
     "table": "19",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 31.9,
       "y": 54.7,
@@ -211,7 +211,7 @@
   {
     "name": "Blair Image Elements",
     "table": "20",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 31.9,
       "y": 58.5,
@@ -222,7 +222,7 @@
   {
     "name": "Blair Senior Services",
     "table": "21",
-    "industry": "Serving Blair County Senior Population",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 36.4,
       "y": 36.5,
@@ -233,7 +233,7 @@
   {
     "name": "Burgmeier's Hauling Inc.",
     "table": "22",
-    "industry": "Hauling",
+    "industry": "Transportation / Logistics",
     "booth": {
       "x": 36.4,
       "y": 40.1,
@@ -244,7 +244,7 @@
   {
     "name": "Care Options for Kids",
     "table": "23",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 36.4,
       "y": 43.7,
@@ -255,7 +255,7 @@
   {
     "name": "CareSmart Solutions",
     "table": "24",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 36.4,
       "y": 47.5,
@@ -266,7 +266,7 @@
   {
     "name": "Carpenter Co",
     "table": "25",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 36.4,
       "y": 51.2,
@@ -277,7 +277,7 @@
   {
     "name": "CATA",
     "table": "26",
-    "industry": "Transportation, Logistics, and Agriculture",
+    "industry": "Transportation / Logistics",
     "booth": {
       "x": 36.4,
       "y": 54.7,
@@ -288,7 +288,7 @@
   {
     "name": "Cedarwood Rehabilitation and Healthcare",
     "table": "27",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 36.4,
       "y": 58.5,
@@ -299,7 +299,7 @@
   {
     "name": "Honeycomb ABA Therapy",
     "table": "28",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 44.4,
       "y": 36.5,
@@ -310,7 +310,7 @@
   {
     "name": "CenClear",
     "table": "29",
-    "industry": "Education and Public Administration",
+    "industry": "Education / Training",
     "booth": {
       "x": 44.4,
       "y": 40.1,
@@ -321,7 +321,7 @@
   {
     "name": "Central States Manufacturing Inc",
     "table": "30",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 44.4,
       "y": 43.7,
@@ -332,7 +332,7 @@
   {
     "name": "Champion Homes",
     "table": "31",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 44.4,
       "y": 47.5,
@@ -343,7 +343,7 @@
   {
     "name": "Chicago Rivet & Machine Co",
     "table": "32",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 44.4,
       "y": 51.2,
@@ -354,7 +354,7 @@
   {
     "name": "Child Advocates of Blair County/Head Start",
     "table": "33",
-    "industry": "Education and Public Administration",
+    "industry": "Education / Training",
     "booth": {
       "x": 44.4,
       "y": 54.7,
@@ -365,7 +365,7 @@
   {
     "name": "Clarvida (formerly Children's Behavioral Health)",
     "table": "34",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 44.4,
       "y": 58.5,
@@ -376,7 +376,7 @@
   {
     "name": "Colonial Courtyard at Tyrone",
     "table": "35",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 52.9,
       "y": 36.5,
@@ -387,7 +387,7 @@
   {
     "name": "Combined a Chubb Company",
     "table": "36",
-    "industry": "Insurance Sales, Benefits Advisor",
+    "industry": "Business / Finance / Insurance",
     "booth": {
       "x": 52.9,
       "y": 40.1,
@@ -398,7 +398,7 @@
   {
     "name": "Commonwealth of PA (Enterprise Recruitment)",
     "table": "37",
-    "industry": "Government, Military, & Law and Order",
+    "industry": "Government / Public Service",
     "booth": {
       "x": 52.9,
       "y": 43.7,
@@ -409,7 +409,7 @@
   {
     "name": "Commonwealth Technical Institute at the Hiram G. Andrews",
     "table": "38",
-    "industry": "post-secondary vocational education (OVR)",
+    "industry": "Education / Training",
     "booth": {
       "x": 52.9,
       "y": 47.5,
@@ -420,7 +420,7 @@
   {
     "name": "Conemaugh Nason Medical Center",
     "table": "39",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 52.9,
       "y": 51.2,
@@ -431,7 +431,7 @@
   {
     "name": "Corle Building Systems",
     "table": "40",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 52.9,
       "y": 54.7,
@@ -442,7 +442,7 @@
   {
     "name": "Cornerstone Caregiving",
     "table": "41",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 52.9,
       "y": 58.5,
@@ -453,7 +453,7 @@
   {
     "name": "Cove Forge Behavioral Health Center",
     "table": "42",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 60.3,
       "y": 36.5,
@@ -464,7 +464,7 @@
   {
     "name": "UPMC Altoona",
     "table": "43",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 60.3,
       "y": 40.1,
@@ -475,7 +475,7 @@
   {
     "name": "UPMC Altoona Mercy School of Nursing",
     "table": "44",
-    "industry": "Education and Public Administration",
+    "industry": "Education / Training",
     "booth": {
       "x": 60.3,
       "y": 43.7,
@@ -486,7 +486,7 @@
   {
     "name": "Cracker Barrel Old Country Store",
     "table": "45",
-    "industry": "Retail, Hospitality, and Food Services",
+    "industry": "Retail / Hospitality / Food Service",
     "booth": {
       "x": 60.3,
       "y": 47.5,
@@ -497,7 +497,7 @@
   {
     "name": "Stuckey Automotive",
     "table": "46",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Transportation / Logistics",
     "booth": {
       "x": 60.3,
       "y": 51.2,
@@ -508,7 +508,7 @@
   {
     "name": "EB Endres",
     "table": "47",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 60.3,
       "y": 54.7,
@@ -519,7 +519,7 @@
   {
     "name": "EmmUcare Home Health",
     "table": "48",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 60.3,
       "y": 58.5,
@@ -530,7 +530,7 @@
   {
     "name": "ESS",
     "table": "49",
-    "industry": "Education and Public Administration",
+    "industry": "Education / Training",
     "booth": {
       "x": 65.1,
       "y": 36.5,
@@ -541,7 +541,7 @@
   {
     "name": "Estes Express Lines",
     "table": "50",
-    "industry": "Transportation, Logistics, and Agriculture",
+    "industry": "Transportation / Logistics",
     "booth": {
       "x": 65.1,
       "y": 40.1,
@@ -552,7 +552,7 @@
   {
     "name": "Family Care Home Health Agency",
     "table": "51",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 65.1,
       "y": 43.7,
@@ -563,7 +563,7 @@
   {
     "name": "Family Services, Inc.",
     "table": "52",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 65.1,
       "y": 47.5,
@@ -574,7 +574,7 @@
   {
     "name": "Graystone Manor, LLC. - Bellemeade",
     "table": "53",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 65.1,
       "y": 51.2,
@@ -585,7 +585,7 @@
   {
     "name": "Griswold Home Care for Blair County",
     "table": "54",
-    "industry": "Non-Medical Home Care",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 65.1,
       "y": 54.7,
@@ -596,7 +596,7 @@
   {
     "name": "H.H. Brown Shoe Co.",
     "table": "55",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 73.3,
       "y": 58.5,
@@ -607,7 +607,7 @@
   {
     "name": "J.S. Decorative Concrete",
     "table": "56",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 73.3,
       "y": 36.5,
@@ -618,7 +618,7 @@
   {
     "name": "JLG",
     "table": "57",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 73.3,
       "y": 40.1,
@@ -629,7 +629,7 @@
   {
     "name": "Just Play LLC (Slinky Factory)",
     "table": "58",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 73.3,
       "y": 43.7,
@@ -640,7 +640,7 @@
   {
     "name": "Kaleidoscope Family Solutions",
     "table": "59",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 73.3,
       "y": 47.5,
@@ -651,7 +651,7 @@
   {
     "name": "Leonard S Fiore, Inc.",
     "table": "60",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 73.3,
       "y": 51.2,
@@ -662,7 +662,7 @@
   {
     "name": "Lightner Communications",
     "table": "61",
-    "industry": "Media",
+    "industry": "Media/Communications",
     "booth": {
       "x": 73.3,
       "y": 54.7,
@@ -673,7 +673,7 @@
   {
     "name": "Manpower of Altoona",
     "table": "62",
-    "industry": "Staffing",
+    "industry": "Staffing / Recruiting",
     "booth": {
       "x": 18.8,
       "y": 65.8,
@@ -684,7 +684,7 @@
   {
     "name": "Martins / Giant Foods",
     "table": "63",
-    "industry": "Retail, Hospitality, and Food Services",
+    "industry": "Retail / Hospitality / Food Service",
     "booth": {
       "x": 23.3,
       "y": 65.8,
@@ -695,7 +695,7 @@
   {
     "name": "Mayville Engineering Company, Inc.",
     "table": "64",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 27.8,
       "y": 65.8,
@@ -706,7 +706,7 @@
   {
     "name": "New Pig Corporation",
     "table": "65",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 32.4,
       "y": 65.8,
@@ -715,9 +715,9 @@
     }
   },
   {
-    "name": "Midtown Oaks Health & Rehab & The Villages of Midtown Oaks",
+    "name": "Midtown Oaks Health & Rehab & The Villages of Midtown",
     "table": "66",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 37.0,
       "y": 65.8,
@@ -728,7 +728,7 @@
   {
     "name": "NPC, Inc.",
     "table": "67",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 42.2,
       "y": 65.8,
@@ -739,7 +739,7 @@
   {
     "name": "OneWell Health Care",
     "table": "68",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 50.7,
       "y": 65.8,
@@ -750,7 +750,7 @@
   {
     "name": "Peerstar of PA",
     "table": "69",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 55.2,
       "y": 65.8,
@@ -761,7 +761,7 @@
   {
     "name": "Penn Highlands Community College",
     "table": "70",
-    "industry": "Education and Public Administration",
+    "industry": "Education / Training",
     "booth": {
       "x": 59.3,
       "y": 65.8,
@@ -771,8 +771,8 @@
   },
   {
     "name": "Penn Highlands Healthcare",
-    "table": "72",
-    "industry": "Healthcare and Social Assistance",
+    "table": "71",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 63.7,
       "y": 65.8,
@@ -782,8 +782,8 @@
   },
   {
     "name": "New Enterprise Stone & Lime Co. Inc.",
-    "table": "71",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "table": "72",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 63.4,
       "y": 61.6,
@@ -794,7 +794,7 @@
   {
     "name": "Pyramid Healthcare Inc.",
     "table": "73",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 71.3,
       "y": 65.8,
@@ -805,7 +805,7 @@
   {
     "name": "Red Shamrock Building and Remodeling",
     "table": "74",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 73.7,
       "y": 61.6,
@@ -816,7 +816,7 @@
   {
     "name": "Reliance Bank",
     "table": "75",
-    "industry": "Business, Finance, and Real Estate",
+    "industry": "Business / Finance / Insurance",
     "booth": {
       "x": 75.7,
       "y": 65.7,
@@ -827,7 +827,7 @@
   {
     "name": "Renewal by Anderson",
     "table": "76",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 80.3,
       "y": 63.0,
@@ -838,7 +838,7 @@
   {
     "name": "Rockland Manufacturing Company",
     "table": "77",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 80.3,
       "y": 58.5,
@@ -849,7 +849,7 @@
   {
     "name": "Saint Francis University",
     "table": "78",
-    "industry": "Education and Public Administration",
+    "industry": "Education / Training",
     "booth": {
       "x": 80.3,
       "y": 55.2,
@@ -860,7 +860,7 @@
   {
     "name": "Skills of Central PA",
     "table": "79",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 81.3,
       "y": 52.2,
@@ -871,7 +871,7 @@
   {
     "name": "Spherion Staffing and Recruiting",
     "table": "80",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 81.3,
       "y": 48.6,
@@ -882,7 +882,7 @@
   {
     "name": "Spring Cove School District",
     "table": "81",
-    "industry": "Education and Public Administration",
+    "industry": "Education / Training",
     "booth": {
       "x": 81.3,
       "y": 44.1,
@@ -891,9 +891,9 @@
     }
   },
   {
-    "name": "EASRCC Eastern Atlantic States Regional Council of Carpenters",
+    "name": "EASRCC Eastern Atlantic States Regional Council of",
     "table": "82",
-    "industry": "Transportation, Logistics, and Agriculture",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 81.3,
       "y": 40.6,
@@ -904,7 +904,7 @@
   {
     "name": "Student Transportation of America - Altoona",
     "table": "83",
-    "industry": "Transportation, Logistics, and Agriculture",
+    "industry": "Transportation / Logistics",
     "booth": {
       "x": 81.3,
       "y": 36.9,
@@ -915,7 +915,7 @@
   {
     "name": "Sunset Support Services LLC.",
     "table": "84",
-    "industry": "Social services/support of ID/Autism Adults",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 86.3,
       "y": 45.0,
@@ -926,7 +926,7 @@
   {
     "name": "Super 8 By Wyndham",
     "table": "85",
-    "industry": "Hospitality",
+    "industry": "Retail / Hospitality / Food Service",
     "booth": {
       "x": 86.3,
       "y": 40.8,
@@ -937,10 +937,10 @@
   {
     "name": "The Academy Preschool and Early Education Center",
     "table": "86",
-    "industry": "Education and Public Administration",
+    "industry": "Education / Training",
     "booth": {
-      "x": 60.3,
-      "y": 50.2,
+      "x": 86.3,
+      "y": 36.5,
       "w": 3.0,
       "h": 3.8
     }
@@ -948,7 +948,7 @@
   {
     "name": "The Baltimore Life Companies",
     "table": "87",
-    "industry": "Insurance, Sales, and Marketing",
+    "industry": "Business / Finance / Insurance",
     "booth": {
       "x": 86.3,
       "y": 32.3,
@@ -958,8 +958,8 @@
   },
   {
     "name": "Traditional Home Health Care",
-    "table": "91",
-    "industry": "Healthcare and Social Assistance",
+    "table": "88",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 91.8,
       "y": 32.3,
@@ -969,8 +969,8 @@
   },
   {
     "name": "Vitro Automotive",
-    "table": "90",
-    "industry": "Manufacturing, Construction, and Utilities",
+    "table": "89",
+    "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 91.8,
       "y": 36.5,
@@ -980,8 +980,8 @@
   },
   {
     "name": "Wright Knox Motor Lines Inc.",
-    "table": "89",
-    "industry": "Transportation, Logistics, and Agriculture",
+    "table": "90",
+    "industry": "Transportation / Logistics",
     "booth": {
       "x": 91.8,
       "y": 40.8,
@@ -991,8 +991,8 @@
   },
   {
     "name": "Focus Behavioral Health Inc",
-    "table": "88",
-    "industry": "Healthcare and Social Assistance",
+    "table": "91",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 91.8,
       "y": 45.2,
@@ -1003,7 +1003,7 @@
   {
     "name": "Greenwood Pools & Spas",
     "table": "92",
-    "industry": "Retail, Hospitality, and Food Services",
+    "industry": "Retail / Hospitality / Food Service",
     "booth": {
       "x": 78.1,
       "y": 31.3,
@@ -1014,7 +1014,7 @@
   {
     "name": "JusticeWorks Youth Care",
     "table": "93",
-    "industry": "Healthcare and Social Assistance",
+    "industry": "Healthcare / Human Services",
     "booth": {
       "x": 69.5,
       "y": 30.7,
@@ -1025,7 +1025,7 @@
   {
     "name": "The Pennsylvania State University",
     "table": "94",
-    "industry": "Education and Public Administration",
+    "industry": "Education / Training",
     "booth": {
       "x": 64.7,
       "y": 30.7,
@@ -1036,7 +1036,7 @@
   {
     "name": "Greater Altoona Career & Technology Center",
     "table": "95",
-    "industry": "Education and Public Administration",
+    "industry": "Education / Training",
     "booth": {
       "x": 60.0,
       "y": 30.7,
@@ -1047,7 +1047,7 @@
   {
     "name": "PA Department of Treasury",
     "table": "96",
-    "industry": "Government, Military, & Law and Order",
+    "industry": "Government / Public Service",
     "booth": {
       "x": 55.2,
       "y": 30.7,
@@ -1058,7 +1058,7 @@
   {
     "name": "PA CareerLink® Blair County",
     "table": "CL",
-    "industry": "Government, Military, & Law and Order",
+    "industry": "Government / Public Service",
     "booth": {
       "x": 23.8,
       "y": 30.7,
@@ -1067,9 +1067,9 @@
     }
   },
   {
-    "name": "Office Of Unemployment Compensation/Rapid Response Navigator",
+    "name": "Office Of Unemployment Compensation/Trade Navigator",
     "table": "P1",
-    "industry": "Government, Military, & Law and Order",
+    "industry": "Government / Public Service",
     "booth": {
       "x": 31.1,
       "y": 30.7,
@@ -1080,7 +1080,7 @@
   {
     "name": "Office of Vocational Rehabilitation (OVR)",
     "table": "P2",
-    "industry": "Government, Military, & Law and Order",
+    "industry": "Government / Public Service",
     "booth": {
       "x": 36.5,
       "y": 30.7,
@@ -1091,7 +1091,7 @@
   {
     "name": "Bureau of Blindness and Visual Services (BBVS)",
     "table": "P3",
-    "industry": "Government, Military, & Law and Order",
+    "industry": "Government / Public Service",
     "booth": {
       "x": 41.0,
       "y": 30.7,
@@ -1102,7 +1102,7 @@
   {
     "name": "Center for Community Action (CCA)",
     "table": "P4",
-    "industry": "Government, Military, & Law and Order",
+    "industry": "Government / Public Service",
     "booth": {
       "x": 45.6,
       "y": 30.7,
@@ -1113,7 +1113,7 @@
   {
     "name": "Goodwill of the Southern Alleghenies",
     "table": "P5",
-    "industry": "Government, Military, & Law and Order",
+    "industry": "Government / Public Service",
     "booth": {
       "x": 50.1,
       "y": 30.7,

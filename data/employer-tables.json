@@ -495,12 +495,12 @@
     }
   },
   {
-    "name": "EASRCC Eastern Atlantic States Regional Council of Carpenters",
-    "table": "82",
+    "name": "Stuckey Automotive",
+    "table": "46",
     "industry": "Manufacturing, Construction, and Utilities",
     "booth": {
-      "x": 86.3,
-      "y": 36.5,
+      "x": 60.3,
+      "y": 51.2,
       "w": 3.0,
       "h": 3.8
     }
@@ -891,8 +891,8 @@
     }
   },
   {
-    "name": "Stuckey Automotive",
-    "table": "46",
+    "name": "EASRCC Eastern Atlantic States Regional Council of Carpenters",
+    "table": "82",
     "industry": "Transportation, Logistics, and Agriculture",
     "booth": {
       "x": 81.3,

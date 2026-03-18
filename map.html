@@ -355,122 +355,140 @@
   </div>
 
   <script>
-    // Placeholder directory data for V1 map interactions.
-    const employers = [
-  { name: "PA Army National Guard", table: "1", industry: "Military", booth: { x: 14.7, y: 40.6, w: 3, h: 3.8 } },
-  { name: "CATA", table: "26", industry: "Transportation", booth: { x: 36.6, y: 54.9, w: 3, h: 3.8 } },
-  { name: "UPMC Altoona", table: "43", industry: "Healthcare", booth: { x: 60.3, y: 40.3, w: 3, h: 3.8 } },
-  { name: "New Pig Corporation", table: "65", industry: "Manufacturing", booth: { x: 32.6, y: 65.9, w: 3, h: 3 } },
-  { name: "Reliance Bank", table: "75", industry: "Finance", booth: { x: 75.8, y: 65.9, w: 3, h: 3 } }
-].sort((a, b) => a.name.localeCompare(b.name));
+  let employers = [];
 
-    const searchInput = document.getElementById("searchInput");
-    const industryFilter = document.getElementById("industryFilter");
-    const employerList = document.getElementById("employerList");
-    const boothHighlight = document.getElementById("boothHighlight");
-    const resultsMeta = document.getElementById("resultsMeta");
-    const selectionStatus = document.getElementById("selectionStatus");
-    const liveRegion = document.getElementById("liveRegion");
+  const searchInput = document.getElementById("searchInput");
+  const industryFilter = document.getElementById("industryFilter");
+  const employerList = document.getElementById("employerList");
+  const boothHighlight = document.getElementById("boothHighlight");
+  const resultsMeta = document.getElementById("resultsMeta");
+  const selectionStatus = document.getElementById("selectionStatus");
+  const liveRegion = document.getElementById("liveRegion");
 
-    let selectedEmployerName = "";
+  let selectedEmployerName = "";
 
-    function populateIndustryFilter() {
-      const industries = [...new Set(employers.map((employer) => employer.industry))].sort();
-      industries.forEach((industry) => {
-        const option = document.createElement("option");
-        option.value = industry;
-        option.textContent = industry;
-        industryFilter.appendChild(option);
-      });
-    }
+  function populateIndustryFilter() {
+    industryFilter.innerHTML = `<option value="all">All industries</option>`;
 
-    function getFilteredEmployers() {
-      const query = searchInput.value.trim().toLowerCase();
-      const selectedIndustry = industryFilter.value;
+    const industries = [...new Set(employers.map((employer) => employer.industry))].sort();
 
-      return employers.filter((employer) => {
-        const matchesName = employer.name.toLowerCase().includes(query);
-        const matchesIndustry = selectedIndustry === "all" || employer.industry === selectedIndustry;
-        return matchesName && matchesIndustry;
-      });
-    }
-
-    function setHighlight(employer) {
-  if (!employer.booth) {
-    boothHighlight.style.display = "none";
-    selectionStatus.textContent = `Selected: ${employer.name} (Table ${employer.table}, ${employer.industry}).`;
-    liveRegion.textContent = `${employer.name} selected. Booth location not mapped yet.`;
-    return;
+    industries.forEach((industry) => {
+      const option = document.createElement("option");
+      option.value = industry;
+      option.textContent = industry;
+      industryFilter.appendChild(option);
+    });
   }
 
-  boothHighlight.style.display = "block";
-  boothHighlight.style.left = `${employer.booth.x}%`;
-  boothHighlight.style.top = `${employer.booth.y}%`;
-  boothHighlight.style.width = `${employer.booth.w}%`;
-  boothHighlight.style.height = `${employer.booth.h}%`;
+  function getFilteredEmployers() {
+    const query = searchInput.value.trim().toLowerCase();
+    const selectedIndustry = industryFilter.value;
 
-  selectionStatus.textContent = `Selected: ${employer.name} (Table ${employer.table}, ${employer.industry}).`;
-  liveRegion.textContent = `${employer.name} selected. Highlighting table ${employer.table} on the map.`;
-}
-    function clearHighlight() {
+    return employers.filter((employer) => {
+      const matchesName = employer.name.toLowerCase().includes(query);
+      const matchesIndustry = selectedIndustry === "all" || employer.industry === selectedIndustry;
+      return matchesName && matchesIndustry;
+    });
+  }
+
+  function setHighlight(employer) {
+    if (!employer.booth) {
       boothHighlight.style.display = "none";
-      selectionStatus.textContent = "No employer selected yet.";
-      liveRegion.textContent = "Map highlight cleared.";
+      selectionStatus.textContent = `Selected: ${employer.name} (Table ${employer.table}, ${employer.industry}).`;
+      liveRegion.textContent = `${employer.name} selected. Booth location not mapped yet.`;
+      return;
     }
 
-    function renderEmployerList() {
-      const filtered = getFilteredEmployers();
-      employerList.innerHTML = "";
-      resultsMeta.textContent = `${filtered.length} employer${filtered.length === 1 ? "" : "s"} shown.`;
+    boothHighlight.style.display = "block";
+    boothHighlight.style.left = `${employer.booth.x}%`;
+    boothHighlight.style.top = `${employer.booth.y}%`;
+    boothHighlight.style.width = `${employer.booth.w}%`;
+    boothHighlight.style.height = `${employer.booth.h}%`;
 
-      if (!filtered.length) {
-        const emptyMessage = document.createElement("li");
-        emptyMessage.className = "results-meta";
-        emptyMessage.textContent = "No employers match your search.";
-        employerList.appendChild(emptyMessage);
-        clearHighlight();
-        selectedEmployerName = "";
-        return;
+    selectionStatus.textContent = `Selected: ${employer.name} (Table ${employer.table}, ${employer.industry}).`;
+    liveRegion.textContent = `${employer.name} selected. Highlighting table ${employer.table} on the map.`;
+  }
+
+  function clearHighlight() {
+    boothHighlight.style.display = "none";
+    selectionStatus.textContent = "No employer selected yet.";
+    liveRegion.textContent = "Map highlight cleared.";
+  }
+
+  function renderEmployerList() {
+    const filtered = getFilteredEmployers();
+    employerList.innerHTML = "";
+    resultsMeta.textContent = `${filtered.length} employer${filtered.length === 1 ? "" : "s"} shown.`;
+
+    if (!filtered.length) {
+      const emptyMessage = document.createElement("li");
+      emptyMessage.className = "results-meta";
+      emptyMessage.textContent = "No employers match your search.";
+      employerList.appendChild(emptyMessage);
+      clearHighlight();
+      selectedEmployerName = "";
+      return;
+    }
+
+    if (!filtered.some((employer) => employer.name === selectedEmployerName)) {
+      selectedEmployerName = "";
+      clearHighlight();
+    }
+
+    filtered.forEach((employer) => {
+      const row = document.createElement("button");
+      row.type = "button";
+      row.className = "employer-row";
+      row.setAttribute("aria-label", `${employer.name}, Table ${employer.table}, ${employer.industry}`);
+
+      if (selectedEmployerName === employer.name) {
+        row.classList.add("active");
       }
 
-      if (!filtered.some((employer) => employer.name === selectedEmployerName)) {
-        selectedEmployerName = "";
-        clearHighlight();
-      }
+      row.innerHTML = `
+        <span class="employer-name">${employer.name}</span>
+        <span class="employer-meta">Table ${employer.table}</span>
+        <span class="employer-meta">${employer.industry}</span>
+      `;
 
-      filtered.forEach((employer) => {
-        const row = document.createElement("button");
-        row.type = "button";
-        row.className = "employer-row";
-        row.setAttribute("aria-label", `${employer.name}, Table ${employer.table}, ${employer.industry}`);
-
-        if (selectedEmployerName === employer.name) {
-          row.classList.add("active");
-        }
-
-        row.innerHTML = `
-          <span class="employer-name">${employer.name}</span>
-          <span class="employer-meta">Table ${employer.table}</span>
-          <span class="employer-meta">${employer.industry}</span>
-        `;
-
-        row.addEventListener("click", () => {
-          selectedEmployerName = employer.name;
-          setHighlight(employer);
-          renderEmployerList();
-        });
-
-        const item = document.createElement("li");
-        item.appendChild(row);
-        employerList.appendChild(item);
+      row.addEventListener("click", () => {
+        selectedEmployerName = employer.name;
+        setHighlight(employer);
+        renderEmployerList();
       });
+
+      const item = document.createElement("li");
+      item.appendChild(row);
+      employerList.appendChild(item);
+    });
+  }
+
+  async function loadEmployers() {
+    try {
+      const response = await fetch("data/employer-tables.json");
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+
+      const data = await response.json();
+      employers = data.sort((a, b) => a.name.localeCompare(b.name));
+
+      populateIndustryFilter();
+      renderEmployerList();
+    } catch (error) {
+      console.error("Failed to load employer data:", error);
+      resultsMeta.textContent = "Unable to load employer data.";
+      selectionStatus.textContent = "Employer directory unavailable.";
+      liveRegion.textContent = "Employer data failed to load.";
     }
+  }
 
-    searchInput.addEventListener("input", renderEmployerList);
-    industryFilter.addEventListener("change", renderEmployerList);
+  searchInput.addEventListener("input", renderEmployerList);
+  industryFilter.addEventListener("change", renderEmployerList);
 
-    populateIndustryFilter();
-    renderEmployerList();
-  </script>
+  loadEmployers();
+</script>
+</body>
+</html>
 </body>
 </html

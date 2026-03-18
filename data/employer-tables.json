@@ -958,7 +958,7 @@
   },
   {
     "name": "Traditional Home Health Care",
-    "table": "88",
+    "table": "91",
     "industry": "Healthcare / Human Services",
     "booth": {
       "x": 91.8,
@@ -969,7 +969,7 @@
   },
   {
     "name": "Vitro Automotive",
-    "table": "89",
+    "table": "90",
     "industry": "Manufacturing / Skilled Trades",
     "booth": {
       "x": 91.8,
@@ -980,7 +980,7 @@
   },
   {
     "name": "Wright Knox Motor Lines Inc.",
-    "table": "90",
+    "table": "89",
     "industry": "Transportation / Logistics",
     "booth": {
       "x": 91.8,
@@ -991,7 +991,7 @@
   },
   {
     "name": "Focus Behavioral Health Inc",
-    "table": "91",
+    "table": "88",
     "industry": "Healthcare / Human Services",
     "booth": {
       "x": 91.8,

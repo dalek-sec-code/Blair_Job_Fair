@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PA CareerLink® Blair County | Spring 2026 Job Fair Help</title>
+  <style>
+    :root {
+      --campaign-blue: #003594;
+      --campaign-red: #CB333B;
+      --brotherly-blue: #112E47;
+      --talon-taupe: #C0B199;
+      --ajc-gray: #939598;
+      --bg: #eef3fa;
+      --surface: #ffffff;
+      --border: #ced8e6;
+      --text: #112E47;
+      --text-soft: #4a6278;
+      --shadow: 0 8px 20px rgba(17, 46, 71, 0.08);
+      --radius-lg: 18px;
+      --radius-md: 14px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      background: #3c3c3c;
+      color: var(--text);
+      line-height: 1.5;
+      padding: 20px 12px;
+    }
+
+    .app-shell {
+      width: 100%;
+      max-width: 1180px;
+      margin: 0 auto;
+      background: var(--bg);
+      border: 1px solid #b7c4d6;
+      border-radius: 30px;
+      overflow: hidden;
+      box-shadow: 0 12px 36px rgba(0, 0, 0, 0.22);
+    }
+
+    .container { width: 100%; padding: 20px; }
+
+    header {
+      background: var(--surface);
+      border-bottom: 3px solid var(--campaign-red);
+    }
+
+    .header-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 18px;
+      align-items: center;
+    }
+
+    .brand-block { display: flex; justify-content: flex-start; align-items: center; }
+
+    .brand-block img {
+      width: 100%;
+      max-width: 460px;
+      height: auto;
+      display: block;
+      object-fit: contain;
+    }
+
+    .title-block h1 {
+      font-size: 2rem;
+      line-height: 1.08;
+      color: #000;
+      margin-bottom: 8px;
+      font-weight: 700;
+    }
+
+    .title-block p { font-size: 1rem; color: var(--ajc-gray); }
+
+    main { padding: 20px; }
+
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--campaign-blue);
+      font-weight: 700;
+      text-decoration: none;
+      margin-bottom: 16px;
+    }
+
+    .back-link:hover,
+    .back-link:focus-visible { text-decoration: underline; }
+
+    .page-intro,
+    .intro-card,
+    .help-card,
+    .action-strip,
+    .contact-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      box-shadow: var(--shadow);
+    }
+
+    .page-intro,
+    .intro-card,
+    .action-strip,
+    .contact-card { padding: 22px; }
+
+    .page-intro { margin-bottom: 18px; }
+
+    .page-intro h2 {
+      color: var(--campaign-blue);
+      font-size: 1.95rem;
+      line-height: 1.15;
+      margin-bottom: 8px;
+    }
+
+    .page-intro p,
+    .intro-card p,
+    .help-card p,
+    .contact-card p,
+    .action-strip p,
+    .help-card li { color: var(--text-soft); }
+
+    .intro-card {
+      border-style: dashed;
+      background: #f8fbff;
+      box-shadow: none;
+      margin-bottom: 18px;
+    }
+
+    .cards-grid {
+      display: grid;
+      gap: 18px;
+      grid-template-columns: 1fr;
+      margin-bottom: 18px;
+    }
+
+    .help-card { padding: 18px; }
+
+    .help-card h3 {
+      font-size: 1.15rem;
+      color: var(--campaign-blue);
+      margin-bottom: 10px;
+    }
+
+    .help-card ul {
+      padding-left: 18px;
+      display: grid;
+      gap: 8px;
+    }
+
+    .help-card p + p { margin-top: 10px; }
+
+    .action-strip { margin-bottom: 18px; }
+
+    .action-strip p { margin-bottom: 12px; }
+
+    .action-links {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 10px;
+    }
+
+    .action-link {
+      text-decoration: none;
+      display: inline-flex;
+      justify-content: center;
+      align-items: center;
+      padding: 11px 14px;
+      border-radius: 10px;
+      border: 1px solid var(--campaign-blue);
+      color: var(--campaign-blue);
+      font-weight: 700;
+      background: #fff;
+      text-align: center;
+    }
+
+    .action-link.primary {
+      background: var(--campaign-blue);
+      color: #fff;
+    }
+
+    .contact-card h3 {
+      font-size: 1.15rem;
+      color: var(--campaign-blue);
+      margin-bottom: 10px;
+    }
+
+    footer {
+      background: var(--brotherly-blue);
+      color: #e6edf7;
+      padding: 10px;
+    }
+
+    .footer-inner { display: flex; flex-direction: column; align-items: center; gap: 5px; }
+    .footer-brand { display: flex; justify-content: center; align-items: flex-start; }
+
+    .footer-brand img {
+      background: transparent;
+      width: 100%;
+      max-width: 460px;
+      height: auto;
+      display: block;
+      object-fit: contain;
+      margin: 0 auto;
+    }
+
+    .footer-contact { text-align: center; line-height: 1.4; margin-top: 4px; }
+
+    .footer-compliance {
+      text-align: center;
+      font-size: 0.84rem;
+      line-height: 1.55;
+    }
+
+    .footer-compliance a { color: var(--talon-taupe); }
+
+    @media (min-width: 760px) {
+      .header-grid { grid-template-columns: minmax(280px, 400px) 1fr; gap: 56px; }
+      .title-block h1 { font-size: 3.25rem; max-width: 20ch; }
+      .title-block p { font-size: 1.08rem; }
+      .page-intro h2 { font-size: 2.15rem; }
+      .cards-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .action-links { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    }
+
+    @media (max-width: 759px) {
+      .container, main, footer { padding: 18px; }
+      .brand-block img { max-width: 360px; }
+      .title-block h1 { font-size: 1.85rem; }
+      .page-intro h2 { font-size: 1.8rem; }
+    }
+
+    @media (max-width: 480px) {
+      body { padding: 10px; }
+      .app-shell { border-radius: 22px; }
+      .brand-block img { max-width: 300px; }
+      .title-block h1 { font-size: 1.65rem; }
+      .page-intro h2 { font-size: 1.65rem; }
+      .page-intro, .intro-card, .help-card, .action-strip, .contact-card { border-radius: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="app-shell">
+    <header>
+      <div class="container header-grid">
+        <div class="brand-block">
+          <img src="assets/logos/PACL_BLAIR.svg" alt="PA CareerLink® Blair County logo" />
+        </div>
+        <div class="title-block">
+          <h1>Spring 2026 Job Fair</h1>
+          <h1>Event Experience Guide</h1>
+          <p>Hosted by PA CareerLink® Blair County</p>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <a class="back-link" href="index.html">&larr; Back to Event</a>
+
+      <section class="page-intro">
+        <h2>Need Help?</h2>
+        <p>Find support during the Spring 2026 Job Fair</p>
+      </section>
+
+      <section class="intro-card" aria-label="Introductory help message">
+        <p>If you need support during the event, PA CareerLink® staff are here to help. All PA CareerLink® services are provided at no cost to job seekers.</p>
+      </section>
+
+      <section class="cards-grid" aria-label="Help and support information">
+        <article class="help-card" id="help-tables">
+          <h3>Find the PA CareerLink® Help Tables</h3>
+          <p>Visit the PA CareerLink® help tables during the event for one-on-one support. If you are unsure where to go, event staff can direct you to the nearest PA CareerLink® table.</p>
+        </article>
+
+        <article class="help-card">
+          <h3>Support Available</h3>
+          <ul>
+            <li>Resume help</li>
+            <li>Interview tips</li>
+            <li>Job search guidance</li>
+            <li>Planning your next step</li>
+            <li>General PA CareerLink® questions</li>
+          </ul>
+        </article>
+
+        <article class="help-card">
+          <h3>Already Requested Help?</h3>
+          <p>If you requested assistance during registration, please go directly to the PA CareerLink® help tables when you arrive so staff can connect with you quickly.</p>
+        </article>
+
+        <article class="help-card">
+          <h3>Career Services &amp; Training Opportunities</h3>
+          <p>After the job fair, PA CareerLink® Blair County can help you continue your progress with no cost services for job seekers, including:</p>
+          <ul>
+            <li>Training funding for in-demand careers</li>
+            <li>On-the-Job Training</li>
+            <li>Paid work experience for youth and young adults</li>
+            <li>Career planning and skill assessments</li>
+            <li>Workshops and certifications</li>
+            <li>Support services to help people stay on track</li>
+          </ul>
+          <p>Visit the help tables today or connect with PA CareerLink® after the event to get started.</p>
+        </article>
+      </section>
+
+      <section class="action-strip" aria-label="Quick actions">
+        <p>Help is available at no cost, and no appointment is needed during the event.</p>
+        <div class="action-links">
+          <a class="action-link primary" href="#help-tables">Find Help Tables</a>
+          <a class="action-link" href="map.html">Back to Map</a>
+          <a class="action-link" href="map.html">Browse Employers</a>
+        </div>
+      </section>
+
+      <section class="contact-card" aria-label="PA CareerLink Blair County contact information">
+        <h3>PA CareerLink® Blair County</h3>
+        <p>1600 5th Ave, 2nd Floor</p>
+        <p>Altoona, PA 16602</p>
+        <p><a href="tel:+18149406201">(814) 940-6201</a></p>
+        <p>TTY: 814-569-1066</p>
+      </section>
+    </main>
+
+    <footer>
+      <div class="footer-inner">
+        <div class="footer-brand">
+          <img src="assets/logos/COLOR_AJC.svg" alt="American Job Center network partner logo" />
+        </div>
+
+        <div class="footer-contact">
+          <p><strong>PA CareerLink® Blair County</strong></p>
+          <p>1600 5th Ave, 2nd Floor</p>
+          <p>Altoona, PA 16602</p>
+          <p><a href="tel:+18149406201" style="color: #e6edf7; text-decoration: underline;">(814) 940-6201</a></p>
+        </div>
+
+        <div class="footer-compliance">
+          PA CareerLink® is an equal opportunity employer/program. Auxiliary aids and services are
+          available upon request to individuals with disabilities. Language assistance services available
+          at no cost. Workforce Innovation and Opportunity Act (WIOA) programs are funded with federal
+          dollars. For detailed information see
+          <a href="https://sapdc.net/stevens-amendment/">https://sapdc.net/stevens-amendment/</a>
+          TTY: 814-569-1066
+        </div>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>

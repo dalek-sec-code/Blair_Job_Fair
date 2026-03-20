@@ -395,6 +395,13 @@
   const liveRegion = document.getElementById("liveRegion");
 
   let selectedEmployerName = "";
+  let pendingTableSelection = "";
+  let shouldScrollToSelection = false;
+
+  function getTableParam() {
+    const params = new URLSearchParams(window.location.search);
+    return (params.get("table") || "").trim().toLowerCase();
+  }
 
   function populateIndustryFilter() {
     industryFilter.innerHTML = `<option value="all">All industries</option>`;
@@ -444,6 +451,13 @@
     liveRegion.textContent = "Map highlight cleared.";
   }
 
+  function selectEmployer(employer, { scrollIntoView = false } = {}) {
+    selectedEmployerName = employer.name;
+    shouldScrollToSelection = scrollIntoView;
+    setHighlight(employer);
+    renderEmployerList();
+  }
+
   function renderEmployerList() {
     const filtered = getFilteredEmployers();
     employerList.innerHTML = "";
@@ -481,29 +495,46 @@
       `;
 
       row.addEventListener("click", () => {
-        selectedEmployerName = employer.name;
-        setHighlight(employer);
-        renderEmployerList();
+        selectEmployer(employer, { scrollIntoView: false });
       });
 
       const item = document.createElement("li");
       item.appendChild(row);
       employerList.appendChild(item);
+
+      if (shouldScrollToSelection && selectedEmployerName === employer.name) {
+        row.scrollIntoView({ block: "nearest" });
+      }
     });
+
+    shouldScrollToSelection = false;
   }
 
   async function loadEmployers() {
     try {
-      const response = await fetch("data/employer-tables-updated.json");
+      const response = await fetch("data/employer-tables.json");
       if (!response.ok) {
         throw new Error(`HTTP ${response.status}`);
       }
 
       const data = await response.json();
       employers = data.sort((a, b) => a.name.localeCompare(b.name));
+      pendingTableSelection = getTableParam();
 
       populateIndustryFilter();
       renderEmployerList();
+
+      if (pendingTableSelection) {
+        const matchedEmployer = employers.find((employer) => String(employer.table || "").trim().toLowerCase() === pendingTableSelection);
+
+        if (matchedEmployer) {
+          searchInput.value = "";
+          industryFilter.value = "all";
+          selectEmployer(matchedEmployer, { scrollIntoView: true });
+        } else {
+          liveRegion.textContent = `No employer found for table ${pendingTableSelection}.`;
+        }
+      }
     } catch (error) {
       console.error("Failed to load employer data:", error);
       resultsMeta.textContent = "Unable to load employer data.";

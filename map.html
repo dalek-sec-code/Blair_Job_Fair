@@ -494,7 +494,7 @@
 
   async function loadEmployers() {
     try {
-      const response = await fetch("data/employer-tables-updated.json");
+      const response = await fetch("data/employer-tables.json");
       if (!response.ok) {
         throw new Error(`HTTP ${response.status}`);
       }

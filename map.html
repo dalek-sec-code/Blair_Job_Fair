@@ -78,6 +78,19 @@
 
     main { padding: 20px; }
 
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--campaign-blue);
+      font-weight: 700;
+      text-decoration: none;
+      margin-bottom: 16px;
+    }
+
+    .back-link:hover,
+    .back-link:focus-visible { text-decoration: underline; }
+    
     .page-intro,
     .map-card,
     .directory-card {
@@ -314,6 +327,8 @@
     </header>
 
     <main>
+      <a class="back-link" href="index.html">&larr; Back to Event</a>
+      
       <section class="page-intro">
         <h2>Employer Map Directory</h2>
         <p>Search or browse employers, then select a listing to highlight the corresponding table on the event floor plan.</p>

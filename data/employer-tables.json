@@ -3,7 +3,7 @@
     "name": "PA Army National Guard",
     "table": "1",
     "industry": "Government / Public Service",
-    "description": "Pennsylvania’s National Guard trains and deploys soldiers and also supports emergency response missions in the state. Local hiring commonly includes military occupational roles plus mechanics, logistics, and administrative support."
+    "description": "Pennsylvania’s National Guard trains and deploys soldiers and also supports emergency response missions in the state. Local hiring commonly includes military occupational roles plus mechanics, logistics, and administrative support.",
     "booth": {
       "x": 14.7,
       "y": 40.6,
@@ -15,7 +15,7 @@
     "name": "PA Dept of Corrections",
     "table": "2",
     "industry": "Government / Public Service",
-    "description": "Pennsylvania’s Department of Corrections runs state prisons and related supervision programs. Jobs commonly include corrections officers plus healthcare, food service, maintenance, and administrative roles."
+    "description": "Pennsylvania’s Department of Corrections runs state prisons and related supervision programs. Jobs commonly include corrections officers plus healthcare, food service, maintenance, and administrative roles.",
     "booth": {
       "x": 14.7,
       "y": 44.2,
@@ -27,7 +27,7 @@
     "name": "PA State Police",
     "table": "3",
     "industry": "Government / Public Service",
-    "description": "Pennsylvania State Police provides statewide law enforcement, including coverage for Blair County through its Troop stations. Hiring includes troopers as well as civilian roles such as dispatch, clerical, and maintenance."
+    "description": "Pennsylvania State Police provides statewide law enforcement, including coverage for Blair County through its Troop stations. Hiring includes troopers as well as civilian roles such as dispatch, clerical, and maintenance.",
     "booth": {
       "x": 14.7,
       "y": 47.9,
@@ -39,7 +39,7 @@
     "name": "PA State Police - Liquor Control Enforcement",
     "table": "4",
     "industry": "Government / Public Service",
-    "description": "The Pennsylvania State Police Bureau of Liquor Control Enforcement enforces Pennsylvania’s liquor laws, including inspections and investigations involving licensed establishments. Roles are law-enforcement focused and may include investigative and compliance work."
+    "description": "The Pennsylvania State Police Bureau of Liquor Control Enforcement enforces Pennsylvania’s liquor laws, including inspections and investigations involving licensed establishments. Roles are law-enforcement focused and may include investigative and compliance work.",
     "booth": {
       "x": 14.7,
       "y": 51.6,
@@ -51,7 +51,7 @@
     "name": "City of Altoona",
     "table": "5",
     "industry": "Government / Public Service",
-    "description": "The City of Altoona provides local government services such as public works, utilities, and administrative city functions. Jobs vary across departments, including public works, administration, and skilled trades."
+    "description": "The City of Altoona provides local government services such as public works, utilities, and administrative city functions. Jobs vary across departments, including public works, administration, and skilled trades.",
     "booth": {
       "x": 17.4,
       "y": 54.7,
@@ -63,7 +63,7 @@
     "name": "Altoona Police Department",
     "table": "6",
     "industry": "Government / Public Service",
-    "description": "The Altoona Police Department is the city’s local law enforcement agency. Jobs typically include police officers and civilian support functions."
+    "description": "The Altoona Police Department is the city’s local law enforcement agency. Jobs typically include police officers and civilian support functions.",
     "booth": {
       "x": 17.4,
       "y": 58.4,
@@ -75,7 +75,7 @@
     "name": "Altoona Area School District",
     "table": "7",
     "industry": "Education / Training",
-    "description": "Altoona Area School District operates public K–12 schools in the Altoona area. Hiring often includes teachers, paraprofessionals, bus/transportation staff, food service, custodial, and support roles."
+    "description": "Altoona Area School District operates public K–12 schools in the Altoona area. Hiring often includes teachers, paraprofessionals, bus/transportation staff, food service, custodial, and support roles.",
     "booth": {
       "x": 23.4,
       "y": 36.4,
@@ -87,7 +87,7 @@
     "name": "Staff Management",
     "table": "8",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "Staff Management | SMX is a staffing company that hires and places workers for local employers, including manufacturing and warehouse operations in the area. Roles commonly include production and warehouse associate positions."
+    "description": "Staff Management | SMX is a staffing company that hires and places workers for local employers, including manufacturing and warehouse operations in the area. Roles commonly include production and warehouse associate positions.",
     "booth": {
       "x": 23.4,
       "y": 40.1,
@@ -99,7 +99,7 @@
     "name": "A4TD",
     "table": "9",
     "industry": "Education / Training",
-    "description": "A4TD is a nonprofit that runs job-training and employment programs in the region, including services that connect job seekers to paid work experience and jobs. Roles are typically program, administrative, and participant-support positions."
+    "description": "A4TD is a nonprofit that runs job-training and employment programs in the region, including services that connect job seekers to paid work experience and jobs. Roles are typically program, administrative, and participant-support positions.",
     "booth": {
       "x": 23.4,
       "y": 43.7,
@@ -111,7 +111,7 @@
     "name": "ACRP Blair",
     "table": "10",
     "industry": "Healthcare / Human Services",
-    "description": "ACRP provides behavioral health and related support programs for children, teens, and families in Blair County, including outpatient and community-based services. Common roles include counselors, case managers, and behavioral health staff."
+    "description": "ACRP provides behavioral health and related support programs for children, teens, and families in Blair County, including outpatient and community-based services. Common roles include counselors, case managers, and behavioral health staff.",
     "booth": {
       "x": 23.4,
       "y": 47.4,
@@ -123,7 +123,7 @@
     "name": "Advantage Resource Group",
     "table": "11",
     "industry": "Staffing / Recruiting",
-    "description": "Advantage Resource Group is a staffing and workforce support company based in the Altoona area that helps employers with hiring and HR-related services. Jobs are commonly in recruiting, HR support, and administrative staffing."
+    "description": "Advantage Resource Group is a staffing and workforce support company based in the Altoona area that helps employers with hiring and HR-related services. Jobs are commonly in recruiting, HR support, and administrative staffing.",
     "booth": {
       "x": 23.4,
       "y": 51.1,
@@ -135,7 +135,7 @@
     "name": "Aerotek",
     "table": "12",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "Aerotek is a staffing and recruiting agency that connects workers with employers in fields like manufacturing, logistics, and office support. Jobs are typically contract or contract-to-hire roles with local client companies."
+    "description": "Aerotek is a staffing and recruiting agency that connects workers with employers in fields like manufacturing, logistics, and office support. Jobs are typically contract or contract-to-hire roles with local client companies.",
     "booth": {
       "x": 23.4,
       "y": 54.7,
@@ -147,7 +147,7 @@
     "name": "Aging With Comfort",
     "table": "13",
     "industry": "Healthcare / Human Services",
-    "description": "Aging With Comfort provides non-medical in-home assistance for older adults and others who need help at home. Typical roles include caregivers and home health aides providing daily living support."
+    "description": "Aging With Comfort provides non-medical in-home assistance for older adults and others who need help at home. Typical roles include caregivers and home health aides providing daily living support.",
     "booth": {
       "x": 23.4,
       "y": 58.4,
@@ -159,7 +159,7 @@
     "name": "Integrity Construction & Windows",
     "table": "14",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "Integrity Construction & Windows provides home improvement and construction services in the Altoona area, including window-related work. Jobs are typically in construction trades such as installers, carpenters, and laborers."
+    "description": "Integrity Construction & Windows provides home improvement and construction services in the Altoona area, including window-related work. Jobs are typically in construction trades such as installers, carpenters, and laborers.",
     "booth": {
       "x": 32.0,
       "y": 36.3,
@@ -171,7 +171,7 @@
     "name": "Altoona Arthritis & Osteoporosis Center and Altoona Center for Clinical Research",
     "table": "15",
     "industry": "Healthcare / Human Services",
-    "description": "This Altoona medical practice treats arthritis, osteoporosis, and other rheumatology-related conditions and also conducts clinical research. Common roles include medical assistants, nurses, administrative staff, and clinical research support."
+    "description": "This Altoona medical practice treats arthritis, osteoporosis, and other rheumatology-related conditions and also conducts clinical research. Common roles include medical assistants, nurses, administrative staff, and clinical research support.",
     "booth": {
       "x": 32.0,
       "y": 40.0,
@@ -183,7 +183,7 @@
     "name": "American Eagle Paper Mill",
     "table": "16",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "American Eagle Paper Mill operates a paper mill in Tyrone that makes recycled paper products. Jobs are commonly in manufacturing, maintenance, and plant operations."
+    "description": "American Eagle Paper Mill operates a paper mill in Tyrone that makes recycled paper products. Jobs are commonly in manufacturing, maintenance, and plant operations.",
     "booth": {
       "x": 32.0,
       "y": 43.65,
@@ -195,7 +195,7 @@
     "name": "America's Home Health Services",
     "table": "17",
     "industry": "Healthcare / Human Services",
-    "description": "America’s Home Health Services provides home health and personal care services, with a licensed location listed in Altoona. Roles commonly include home health aides, caregivers, and office support."
+    "description": "America’s Home Health Services provides home health and personal care services, with a licensed location listed in Altoona. Roles commonly include home health aides, caregivers, and office support.",
     "booth": {
       "x": 32.0,
       "y": 47.3,
@@ -207,7 +207,7 @@
     "name": "Applied Counseling and Consulting Services",
     "table": "18",
     "industry": "Healthcare / Human Services",
-    "description": "Applied Counseling and Consulting Services provides in-home and community supports in Pennsylvania, including services for adults with autism and related needs. Common roles include community support staff and counseling/behavioral health positions."
+    "description": "Applied Counseling and Consulting Services provides in-home and community supports in Pennsylvania, including services for adults with autism and related needs. Common roles include community support staff and counseling/behavioral health positions.",
     "booth": {
       "x": 32.0,
       "y": 51.0,
@@ -219,7 +219,7 @@
     "name": "Arcadia Homecare",
     "table": "19",
     "industry": "Healthcare / Human Services",
-    "description": "Arcadia Home Care provides in-home personal care and support services, with an Altoona office serving the area. Roles often include personal care aides, home health aides, and scheduling or office staff."
+    "description": "Arcadia Home Care provides in-home personal care and support services, with an Altoona office serving the area. Roles often include personal care aides, home health aides, and scheduling or office staff.",
     "booth": {
       "x": 32.0,
       "y": 54.65,
@@ -231,7 +231,7 @@
     "name": "Blair Image Elements",
     "table": "20",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "Blair Image Elements manufactures printed and visual communication products in Altoona, such as signage, displays, and related materials. Jobs commonly include production, printing, fabrication, installation, and shipping roles."
+    "description": "Blair Image Elements manufactures printed and visual communication products in Altoona, such as signage, displays, and related materials. Jobs commonly include production, printing, fabrication, installation, and shipping roles.",
     "booth": {
       "x": 32.0,
       "y": 58.3,
@@ -243,7 +243,7 @@
     "name": "Blair Senior Services",
     "table": "21",
     "industry": "Healthcare / Human Services",
-    "description": "Blair Senior Services is a nonprofit that provides services for older adults in Blair County, including home-delivered meals and door-to-door transportation. Jobs can include drivers, care coordination, kitchen, and support roles."
+    "description": "Blair Senior Services is a nonprofit that provides services for older adults in Blair County, including home-delivered meals and door-to-door transportation. Jobs can include drivers, care coordination, kitchen, and support roles.",
     "booth": {
       "x": 36.0,
       "y": 36.3,
@@ -255,7 +255,7 @@
     "name": "Burgmeier's Hauling Inc.",
     "table": "22",
     "industry": "Transportation / Logistics",
-    "description": "Burgmeier’s Hauling provides trash removal and recycling services in Blair County and surrounding counties. Jobs commonly include CDL drivers, equipment operators, and recycling or yard staff."
+    "description": "Burgmeier’s Hauling provides trash removal and recycling services in Blair County and surrounding counties. Jobs commonly include CDL drivers, equipment operators, and recycling or yard staff.",
     "booth": {
       "x": 36.0,
       "y": 40.0,
@@ -267,7 +267,7 @@
     "name": "Care Options for Kids",
     "table": "23",
     "industry": "Healthcare / Human Services",
-    "description": "Care Options for Kids provides pediatric nursing and therapy services and also offers school-based services in Pennsylvania. Roles commonly include nurses, therapists, and care coordination staff."
+    "description": "Care Options for Kids provides pediatric nursing and therapy services and also offers school-based services in Pennsylvania. Roles commonly include nurses, therapists, and care coordination staff.",
     "booth": {
       "x": 36.0,
       "y": 43.65,
@@ -279,7 +279,7 @@
     "name": "CareSmart Solutions",
     "table": "24",
     "industry": "Healthcare / Human Services",
-    "description": "CareSmart Solutions provides home care and support services from Hollidaysburg, serving people who need help with daily living. Jobs often include caregivers and personal care aides."
+    "description": "CareSmart Solutions provides home care and support services from Hollidaysburg, serving people who need help with daily living. Jobs often include caregivers and personal care aides.",
     "booth": {
       "x": 36.0,
       "y": 47.3,
@@ -291,7 +291,7 @@
     "name": "First Commonwealth Bank",
     "table": "25",
     "industry": "Business / Finance / Insurance",
-    "description": "First Commonwealth Bank works to improve the financial lives of their neighbors and their businesses. Jobs are typically in retail banking, business banking, corporate banking, mortgage banking, finance and accounting, and wealth management."
+    "description": "First Commonwealth Bank works to improve the financial lives of their neighbors and their businesses. Jobs are typically in retail banking, business banking, corporate banking, mortgage banking, finance and accounting, and wealth management.",
     "booth": {
       "x": 36.0,
       "y": 51.0,
@@ -303,7 +303,7 @@
     "name": "CATA",
     "table": "26",
     "industry": "Transportation / Logistics",
-    "description": "The Centre Area Transportation Authority (CATA) operates public bus and related transit services in the State College area. Common roles include bus operators, mechanics, dispatch, and customer service."
+    "description": "The Centre Area Transportation Authority (CATA) operates public bus and related transit services in the State College area. Common roles include bus operators, mechanics, dispatch, and customer service.",
     "booth": {
       "x": 36.0,
       "y": 54.65,
@@ -315,7 +315,7 @@
     "name": "Chicago Rivet & Machine Co",
     "table": "27",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "Chicago Rivet & Machine Co manufactures cold-formed fasteners and riveting/assembly machinery, with its manufacturing facility in Tyrone. Jobs are commonly in machining, manufacturing, maintenance, and quality roles."
+    "description": "Chicago Rivet & Machine Co manufactures cold-formed fasteners and riveting/assembly machinery, with its manufacturing facility in Tyrone. Jobs are commonly in machining, manufacturing, maintenance, and quality roles.",
     "booth": {
       "x": 36.0,
       "y": 58.3,
@@ -327,7 +327,7 @@
     "name": "Honeycomb ABA Therapy",
     "table": "28",
     "industry": "Healthcare / Human Services",
-    "description": "Honeycomb ABA Therapy provides applied behavior analysis (ABA) services in central Pennsylvania, including Blair County. Roles commonly include BCBAs and behavior technicians working with children and families."
+    "description": "Honeycomb ABA Therapy provides applied behavior analysis (ABA) services in central Pennsylvania, including Blair County. Roles commonly include BCBAs and behavior technicians working with children and families.",
     "booth": {
       "x": 44.0,
       "y": 36.5,
@@ -339,7 +339,7 @@
     "name": "CenClear",
     "table": "29",
     "industry": "Education / Training",
-    "description": "CenClear provides early childhood, mental health, and substance use disorder services across central Pennsylvania, including Blair County. Jobs commonly include counselors, case managers, early childhood staff, and support roles."
+    "description": "CenClear provides early childhood, mental health, and substance use disorder services across central Pennsylvania, including Blair County. Jobs commonly include counselors, case managers, early childhood staff, and support roles.",
     "booth": {
       "x": 44.0,
       "y": 40.1,
@@ -351,7 +351,7 @@
     "name": "Central States Manufacturing Inc",
     "table": "30",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "Central States Manufacturing operates a facility in Claysburg that makes metal building products like roofing and siding. Jobs are typically in manufacturing, welding/fabrication, and shipping."
+    "description": "Central States Manufacturing operates a facility in Claysburg that makes metal building products like roofing and siding. Jobs are typically in manufacturing, welding/fabrication, and shipping.",
     "booth": {
       "x": 44.0,
       "y": 43.7,
@@ -363,7 +363,7 @@
     "name": "Champion Homes",
     "table": "31",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "Champion Homes (Atlantic division) builds manufactured and modular homes at its Claysburg facility. Jobs are typically in production and skilled trades such as carpentry, finishing, and plant maintenance."
+    "description": "Champion Homes (Atlantic division) builds manufactured and modular homes at its Claysburg facility. Jobs are typically in production and skilled trades such as carpentry, finishing, and plant maintenance.",
     "booth": {
       "x": 44.0,
       "y": 47.4,
@@ -375,7 +375,7 @@
     "name": "Cedarwood Rehabilitation and Healthcare",
     "table": "32",
     "industry": "Healthcare / Human Services",
-    "description": "Cedarwood Rehabilitation & Healthcare Center in Tyrone provides skilled nursing, rehabilitation, and long-term care. Roles commonly include nurses, nursing assistants, therapy staff, dietary, and housekeeping."
+    "description": "Cedarwood Rehabilitation & Healthcare Center in Tyrone provides skilled nursing, rehabilitation, and long-term care. Roles commonly include nurses, nursing assistants, therapy staff, dietary, and housekeeping.",
     "booth": {
       "x": 44.0,
       "y": 51.1,
@@ -387,7 +387,7 @@
     "name": "Child Advocates of Blair County/Head Start",
     "table": "33",
     "industry": "Education / Training",
-    "description": "Child Advocates of Blair County runs Blair County Head Start, providing early childhood education and related family services. Jobs commonly include teachers, classroom aides, and family support staff."
+    "description": "Child Advocates of Blair County runs Blair County Head Start, providing early childhood education and related family services. Jobs commonly include teachers, classroom aides, and family support staff.",
     "booth": {
       "x": 44.0,
       "y": 54.7,
@@ -399,7 +399,7 @@
     "name": "Clarvida (formerly Children's Behavioral Health)",
     "table": "34",
     "industry": "Healthcare / Human Services",
-    "description": "Clarvida provides behavioral health services in Blair County, including Intensive Behavioral Health Services, with an office in Altoona. Common roles include behavioral health workers, case managers, and program support staff."
+    "description": "Clarvida provides behavioral health services in Blair County, including Intensive Behavioral Health Services, with an office in Altoona. Common roles include behavioral health workers, case managers, and program support staff.",
     "booth": {
       "x": 44.0,
       "y": 58.3,
@@ -411,7 +411,7 @@
     "name": "Colonial Courtyard at Tyrone",
     "table": "35",
     "industry": "Healthcare / Human Services",
-    "description": "Colonial Courtyard at Tyrone is a senior living community providing personal care, memory care, and respite care. Jobs commonly include caregivers, medication aides, dining services, and housekeeping."
+    "description": "Colonial Courtyard at Tyrone is a senior living community providing personal care, memory care, and respite care. Jobs commonly include caregivers, medication aides, dining services, and housekeeping.",
     "booth": {
       "x": 52.8,
       "y": 36.3,
@@ -423,7 +423,7 @@
     "name": "Combined, a Chubb Company",
     "table": "36",
     "industry": "Business / Finance / Insurance",
-    "description": "Combined Insurance sells supplemental insurance products such as accident and health coverage, generally through agents. Jobs often include insurance sales and customer support."
+    "description": "Combined Insurance sells supplemental insurance products such as accident and health coverage, generally through agents. Jobs often include insurance sales and customer support.",
     "booth": {
       "x": 52.8,
       "y": 40.0,
@@ -435,7 +435,7 @@
     "name": "Cove Forge Behavioral Health Center",
     "table": "37",
     "industry": "Healthcare / Human Services",
-    "description": "Cove Forge Behavioral Health Center in Williamsburg provides detox and residential treatment for substance use disorders and some co-occurring mental health needs. Jobs commonly include nursing, counseling, and support staff roles."
+    "description": "Cove Forge Behavioral Health Center in Williamsburg provides detox and residential treatment for substance use disorders and some co-occurring mental health needs. Jobs commonly include nursing, counseling, and support staff roles.",
     "booth": {
       "x": 52.8,
       "y": 43.7,
@@ -447,7 +447,7 @@
     "name": "Commonwealth Technical Institute at the Hiram G. Andrews",
     "table": "38",
     "industry": "Education / Training",
-    "description": "The Commonwealth Technical Institute at the Hiram G Andrews Center provides postsecondary technical education and job-readiness training through Pennsylvania programs. Roles include instructors, support staff, and rehabilitation services staff."
+    "description": "The Commonwealth Technical Institute at the Hiram G Andrews Center provides postsecondary technical education and job-readiness training through Pennsylvania programs. Roles include instructors, support staff, and rehabilitation services staff.",
     "booth": {
       "x": 52.8,
       "y": 47.3,
@@ -459,7 +459,7 @@
     "name": "Conemaugh Nason Medical Center",
     "table": "39",
     "industry": "Healthcare / Human Services",
-    "description": "Conemaugh Nason Medical Center in Roaring Spring is a hospital serving Blair and nearby counties. Jobs include nurses, technicians, physicians, and hospital support roles."
+    "description": "Conemaugh Nason Medical Center in Roaring Spring is a hospital serving Blair and nearby counties. Jobs include nurses, technicians, physicians, and hospital support roles.",
     "booth": {
       "x": 52.8,
       "y": 51.0,
@@ -471,7 +471,7 @@
     "name": "Corle Building Systems",
     "table": "40",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "Corle Building Systems designs and manufactures pre-engineered metal building systems from its Imler, Pennsylvania location. Jobs commonly include engineering, drafting, production, and field support roles."
+    "description": "Corle Building Systems designs and manufactures pre-engineered metal building systems from its Imler, Pennsylvania location. Jobs commonly include engineering, drafting, production, and field support roles.",
     "booth": {
       "x": 52.8,
       "y": 54.6,
@@ -483,7 +483,7 @@
     "name": "Cornerstone Caregiving",
     "table": "41",
     "industry": "Healthcare / Human Services",
-    "description": "Cornerstone Caregiving provides non-medical in-home care services in Altoona and the surrounding area. Roles often include caregivers and scheduling or office support."
+    "description": "Cornerstone Caregiving provides non-medical in-home care services in Altoona and the surrounding area. Roles often include caregivers and scheduling or office support.",
     "booth": {
       "x": 52.8,
       "y": 58.2,
@@ -495,7 +495,7 @@
     "name": "Commonwealth of PA (Enterprise Recruitment)",
     "table": "42",
     "industry": "Government / Public Service",
-    "description": "This represents recruitment for jobs across Pennsylvania state government agencies. Openings vary widely and can include administrative, healthcare, maintenance, IT, and public safety roles."
+    "description": "This represents recruitment for jobs across Pennsylvania state government agencies. Openings vary widely and can include administrative, healthcare, maintenance, IT, and public safety roles.",
     "booth": {
       "x": 60.6,
       "y": 36.3,
@@ -507,7 +507,7 @@
     "name": "UPMC Altoona",
     "table": "43",
     "industry": "Healthcare / Human Services",
-    "description": "UPMC Altoona is a hospital in Altoona providing inpatient and outpatient medical care. Jobs commonly include nursing, imaging/clinical tech roles, and hospital support services."
+    "description": "UPMC Altoona is a hospital in Altoona providing inpatient and outpatient medical care. Jobs commonly include nursing, imaging/clinical tech roles, and hospital support services.",
     "booth": {
       "x": 60.6,
       "y": 40.0,
@@ -519,7 +519,7 @@
     "name": "UPMC Altoona Mercy School of Nursing",
     "table": "44",
     "industry": "Education / Training",
-    "description": "The UPMC Mercy School of Nursing at UPMC Altoona is a nursing education program that trains students to become registered nurses. Roles related to the program include faculty, clinical instructors, and student support staff."
+    "description": "The UPMC Mercy School of Nursing at UPMC Altoona is a nursing education program that trains students to become registered nurses. Roles related to the program include faculty, clinical instructors, and student support staff.",
     "booth": {
       "x": 60.6,
       "y": 43.6,
@@ -531,7 +531,7 @@
     "name": "Cracker Barrel Old Country Store",
     "table": "45",
     "industry": "Retail / Hospitality / Food Service",
-    "description": "Cracker Barrel operates a restaurant and retail store in the Altoona area. Jobs typically include cooks, servers, retail associates, and managers."
+    "description": "Cracker Barrel operates a restaurant and retail store in the Altoona area. Jobs typically include cooks, servers, retail associates, and managers.",
     "booth": {
       "x": 60.6,
       "y": 47.3,
@@ -543,7 +543,7 @@
     "name": "Eastern Atlantic States Regional Council of Carpenters (EASRCC)",
     "table": "46",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "The Eastern Atlantic States Regional Council of Carpenters is a union organization that runs apprenticeship and training programs for carpentry and related trades. Roles for job seekers are typically apprentice and skilled carpenter positions."
+    "description": "The Eastern Atlantic States Regional Council of Carpenters is a union organization that runs apprenticeship and training programs for carpentry and related trades. Roles for job seekers are typically apprentice and skilled carpenter positions.",
     "booth": {
       "x": 60.6,
       "y": 51.0,
@@ -555,7 +555,7 @@
     "name": "EB Endres",
     "table": "47",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "This company designs and builds custom cabinetry and millwork for residential and commercial customers in central Pennsylvania. Jobs are typically in woodworking, fabrication, installation, and shop support."
+    "description": "This company designs and builds custom cabinetry and millwork for residential and commercial customers in central Pennsylvania. Jobs are typically in woodworking, fabrication, installation, and shop support.",
     "booth": {
       "x": 60.6,
       "y": 54.6,
@@ -567,7 +567,7 @@
     "name": "EmmUcare Home Health",
     "table": "48",
     "industry": "Healthcare / Human Services",
-    "description": "EmmUcare Home Health provides in-home personal care services through Pennsylvania offices, including a nearby State College location that serves the region. Roles commonly include home health aides and caregivers."
+    "description": "EmmUcare Home Health provides in-home personal care services through Pennsylvania offices, including a nearby State College location that serves the region. Roles commonly include home health aides and caregivers.",
     "booth": {
       "x": 60.6,
       "y": 58.2,
@@ -579,7 +579,7 @@
     "name": "ESS",
     "table": "49",
     "industry": "Education / Training",
-    "description": "ESS recruits and manages substitute teachers and school support staff for K–12 school districts. Common roles include daily and long-term substitutes, aides, and clerical or cafeteria staff."
+    "description": "ESS recruits and manages substitute teachers and school support staff for K–12 school districts. Common roles include daily and long-term substitutes, aides, and clerical or cafeteria staff.",
     "booth": {
       "x": 64.6,
       "y": 36.3,
@@ -591,7 +591,7 @@
     "name": "Estes Express Lines",
     "table": "50",
     "industry": "Transportation / Logistics",
-    "description": "Estes is a trucking company that operates an Altoona terminal providing less-than-truckload (LTL) freight shipping and related services. Jobs commonly include drivers, dock workers, and logistics/dispatch roles."
+    "description": "Estes is a trucking company that operates an Altoona terminal providing less-than-truckload (LTL) freight shipping and related services. Jobs commonly include drivers, dock workers, and logistics/dispatch roles.",
     "booth": {
       "x": 64.6,
       "y": 40.0,
@@ -603,7 +603,7 @@
     "name": "Family Care Home Health Agency",
     "table": "51",
     "industry": "Healthcare / Human Services",
-    "description": "Family Care Home Health Agency provides home care and companionship services, with an Altoona office. Roles commonly include direct care workers and caregivers."
+    "description": "Family Care Home Health Agency provides home care and companionship services, with an Altoona office. Roles commonly include direct care workers and caregivers.",
     "booth": {
       "x": 64.6,
       "y": 43.6,
@@ -615,7 +615,7 @@
     "name": "Family Services, Inc.",
     "table": "52",
     "industry": "Healthcare / Human Services",
-    "description": "Family Services Incorporated is a Blair County nonprofit based in Altoona that provides social services, including support for victims of domestic violence and sexual assault and services for youth and adults. Jobs commonly include advocates, case managers, and residential or program staff."
+    "description": "Family Services Incorporated is a Blair County nonprofit based in Altoona that provides social services, including support for victims of domestic violence and sexual assault and services for youth and adults. Jobs commonly include advocates, case managers, and residential or program staff.",
     "booth": {
       "x": 64.6,
       "y": 47.3,
@@ -627,7 +627,7 @@
     "name": "Spectrum Control, Inc.",
     "table": "53",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "Spectrum Control is a global leader in high-performance RF and microwave signal processing and conditioning, and electromagnetic interference protection. Jobs commonly include production operators, maintenace technicians, quality inspectors, &sales managers."
+    "description": "Spectrum Control is a global leader in high-performance RF and microwave signal processing and conditioning, and electromagnetic interference protection. Jobs commonly include production operators, maintenace technicians, quality inspectors, &sales managers.",
     "booth": {
       "x": 64.6,
       "y": 51.0,
@@ -639,7 +639,7 @@
     "name": "Griswold Home Care for Blair County",
     "table": "54",
     "industry": "Healthcare / Human Services",
-    "description": "Griswold Home Care provides non-medical in-home care services in Blair County. Roles commonly include caregivers and home care aides supporting clients in their homes."
+    "description": "Griswold Home Care provides non-medical in-home care services in Blair County. Roles commonly include caregivers and home care aides supporting clients in their homes.",
     "booth": {
       "x": 64.6,
       "y": 54.6,
@@ -651,7 +651,7 @@
     "name": "H.H. Brown Shoe Co.",
     "table": "55",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "This employer has a footwear manufacturing presence in Martinsburg. Jobs are typically in production, machine operation, and quality checks."
+    "description": "This employer has a footwear manufacturing presence in Martinsburg. Jobs are typically in production, machine operation, and quality checks.",
     "booth": {
       "x": 73.6,
       "y": 36.5,
@@ -663,7 +663,7 @@
     "name": "J.S. Decorative Concrete",
     "table": "56",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "This contractor provides concrete work such as decorative, stamped, or specialty concrete installations. Jobs are typically in construction trades and labor."
+    "description": "This contractor provides concrete work such as decorative, stamped, or specialty concrete installations. Jobs are typically in construction trades and labor.",
     "booth": {
       "x": 73.6,
       "y": 40.1,
@@ -675,7 +675,7 @@
     "name": "JLG",
     "table": "57",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "JLG manufactures access equipment such as aerial lifts and telehandlers, with operations in Bedford County near Blair County. Jobs commonly include manufacturing, skilled trades, and engineering."
+    "description": "JLG manufactures access equipment such as aerial lifts and telehandlers, with operations in Bedford County near Blair County. Jobs commonly include manufacturing, skilled trades, and engineering.",
     "booth": {
       "x": 73.6,
       "y": 43.7,
@@ -687,7 +687,7 @@
     "name": "Just Play LLC (Slinky Factory)",
     "table": "58",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "Just Play is a toy company that owns the Slinky brand and has supported continued Slinky production in Hollidaysburg. Jobs in the area are tied to toy manufacturing and warehouse/shipping work."
+    "description": "Just Play is a toy company that owns the Slinky brand and has supported continued Slinky production in Hollidaysburg. Jobs in the area are tied to toy manufacturing and warehouse/shipping work.",
     "booth": {
       "x": 73.6,
       "y": 47.5,
@@ -699,7 +699,7 @@
     "name": "Kaleidoscope Family Solutions",
     "table": "59",
     "industry": "Healthcare / Human Services",
-    "description": "Kaleidoscope Family Solutions provides home- and community-based support for people with autism and intellectual disabilities in Pennsylvania. Jobs commonly include direct support professionals and behavioral support roles."
+    "description": "Kaleidoscope Family Solutions provides home- and community-based support for people with autism and intellectual disabilities in Pennsylvania. Jobs commonly include direct support professionals and behavioral support roles.",
     "booth": {
       "x": 73.6,
       "y": 51.2,
@@ -711,7 +711,7 @@
     "name": "Leonard S Fiore, Inc.",
     "table": "60",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "L.S. Fiore is a general contracting and construction management firm headquartered in Altoona that works on commercial and institutional construction projects. Jobs include project management, skilled trades, and field labor roles."
+    "description": "L.S. Fiore is a general contracting and construction management firm headquartered in Altoona that works on commercial and institutional construction projects. Jobs include project management, skilled trades, and field labor roles.",
     "booth": {
       "x": 73.6,
       "y": 54.7,
@@ -723,7 +723,7 @@
     "name": "Lightner Communications",
     "table": "61",
     "industry": "Media/Communications",
-    "description": "Lightner Communications is an Altoona-based company that owns and operates local radio stations in the region. Jobs can include broadcasting, sales, engineering, and administrative roles."
+    "description": "Lightner Communications is an Altoona-based company that owns and operates local radio stations in the region. Jobs can include broadcasting, sales, engineering, and administrative roles.",
     "booth": {
       "x": 73.6,
       "y": 58.3,
@@ -735,7 +735,7 @@
     "name": "Manpower of Altoona",
     "table": "62",
     "industry": "Staffing / Recruiting",
-    "description": "Manpower is a staffing agency with an Altoona office that connects job seekers to temporary and direct-hire jobs with local employers. Roles vary by client, often including light industrial and office support work."
+    "description": "Manpower is a staffing agency with an Altoona office that connects job seekers to temporary and direct-hire jobs with local employers. Roles vary by client, often including light industrial and office support work.",
     "booth": {
       "x": 17.8,
       "y": 66.8,
@@ -747,7 +747,7 @@
     "name": "Martins / Giant Foods",
     "table": "63",
     "industry": "Retail / Hospitality / Food Service",
-    "description": "Martin’s and GIANT are grocery store brands that operate supermarkets in the Altoona area. Jobs typically include cashiers, stockers, deli/food service, pharmacy support, and management roles."
+    "description": "Martin’s and GIANT are grocery store brands that operate supermarkets in the Altoona area. Jobs typically include cashiers, stockers, deli/food service, pharmacy support, and management roles.",
     "booth": {
       "x": 22.6,
       "y": 66.8,
@@ -759,7 +759,7 @@
     "name": "Mayville Engineering Company, Inc.",
     "table": "64",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "Mayville Engineering Company (MEC) operates a Bedford-area facility that provides precision metal fabrication such as welded assemblies, metal forming, and powder coating. Jobs commonly include welding, fabrication, machine operation, and maintenance."
+    "description": "Mayville Engineering Company (MEC) operates a Bedford-area facility that provides precision metal fabrication such as welded assemblies, metal forming, and powder coating. Jobs commonly include welding, fabrication, machine operation, and maintenance.",
     "booth": {
       "x": 27.1,
       "y": 66.8,
@@ -771,7 +771,7 @@
     "name": "New Pig Corporation",
     "table": "65",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "New Pig Corporation, based in Tipton, makes spill-control and absorbent products used by workplaces to contain and clean up leaks and spills. Jobs are often in manufacturing, warehousing, and distribution."
+    "description": "New Pig Corporation, based in Tipton, makes spill-control and absorbent products used by workplaces to contain and clean up leaks and spills. Jobs are often in manufacturing, warehousing, and distribution.",
     "booth": {
       "x": 31.7,
       "y": 66.8,
@@ -783,7 +783,7 @@
     "name": "Midtown Oaks Health & Rehab & The Villages of Midtown",
     "table": "66",
     "industry": "Healthcare / Human Services",
-    "description": "Midtown Oaks in Altoona provides skilled nursing and rehabilitation, and the nearby Villages of Midtown Oaks provides assisted living and memory care. Jobs commonly include nursing, nursing assistants, therapy, dietary, and housekeeping."
+    "description": "Midtown Oaks in Altoona provides skilled nursing and rehabilitation, and the nearby Villages of Midtown Oaks provides assisted living and memory care. Jobs commonly include nursing, nursing assistants, therapy, dietary, and housekeeping.",
     "booth": {
       "x": 36.3,
       "y": 66.8,
@@ -795,7 +795,7 @@
     "name": "NPC, Inc.",
     "table": "67",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "This employer in Claysburg provides large-scale printing, mailing, and fulfillment services for organizations that send time-sensitive notices and documents. Jobs commonly include production, mail operations, data and document processing, and logistics roles."
+    "description": "This employer in Claysburg provides large-scale printing, mailing, and fulfillment services for organizations that send time-sensitive notices and documents. Jobs commonly include production, mail operations, data and document processing, and logistics roles.",
     "booth": {
       "x": 41.3,
       "y": 66.8,
@@ -807,7 +807,7 @@
     "name": "OneWell Health Care",
     "table": "68",
     "industry": "Healthcare / Human Services",
-    "description": "OneWell provides home- and community-based support services in Pennsylvania, including in-home care and supported employment services. Jobs commonly include direct support professionals, aides, and case management roles."
+    "description": "OneWell provides home- and community-based support services in Pennsylvania, including in-home care and supported employment services. Jobs commonly include direct support professionals, aides, and case management roles.",
     "booth": {
       "x": 49.8,
       "y": 66.8,
@@ -819,7 +819,7 @@
     "name": "Peerstar of PA",
     "table": "69",
     "industry": "Healthcare / Human Services",
-    "description": "Peerstar provides peer support services for people dealing with mental health or addiction challenges, with its corporate office listed in Altoona. Jobs commonly include peer support specialists and program support roles."
+    "description": "Peerstar provides peer support services for people dealing with mental health or addiction challenges, with its corporate office listed in Altoona. Jobs commonly include peer support specialists and program support roles.",
     "booth": {
       "x": 54.1,
       "y": 66.8,
@@ -831,7 +831,7 @@
     "name": "Penn Highlands Community College",
     "table": "70",
     "industry": "Education / Training",
-    "description": "Pennsylvania Highlands Community College offers two-year education and training, including a Blair Center in the Logan Valley Mall. Jobs include faculty, student services, and administrative support."
+    "description": "Pennsylvania Highlands Community College offers two-year education and training, including a Blair Center in the Logan Valley Mall. Jobs include faculty, student services, and administrative support.",
     "booth": {
       "x": 58.4,
       "y": 66.8,
@@ -843,7 +843,7 @@
     "name": "Penn Highlands Healthcare",
     "table": "71",
     "industry": "Healthcare / Human Services",
-    "description": "Penn Highlands Healthcare is a hospital and clinic system that operates facilities across the region, including primary care services in Altoona. Jobs commonly include healthcare providers, nursing, and clinic support staff."
+    "description": "Penn Highlands Healthcare is a hospital and clinic system that operates facilities across the region, including primary care services in Altoona. Jobs commonly include healthcare providers, nursing, and clinic support staff.",
     "booth": {
       "x": 62.7,
       "y": 66.8,
@@ -855,7 +855,7 @@
     "name": "New Enterprise Stone & Lime Co. Inc.",
     "table": "72",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "New Enterprise Stone & Lime operates quarries and plants that produce aggregates, asphalt, and ready-mix concrete, including a Roaring Spring location. Jobs commonly include equipment operators, drivers, and plant or quarry workers."
+    "description": "New Enterprise Stone & Lime operates quarries and plants that produce aggregates, asphalt, and ready-mix concrete, including a Roaring Spring location. Jobs commonly include equipment operators, drivers, and plant or quarry workers.",
     "booth": {
       "x": 62.7,
       "y": 62.0,
@@ -867,7 +867,7 @@
     "name": "Pyramid Healthcare Inc.",
     "table": "73",
     "industry": "Healthcare / Human Services",
-    "description": "Pyramid Healthcare provides addiction and mental health treatment services and has programs in and around Altoona, including detox/residential and outpatient care. Jobs commonly include counselors, nurses, technicians, and support staff."
+    "description": "Pyramid Healthcare provides addiction and mental health treatment services and has programs in and around Altoona, including detox/residential and outpatient care. Jobs commonly include counselors, nurses, technicians, and support staff.",
     "booth": {
       "x": 71.0,
       "y": 66.8,
@@ -879,7 +879,7 @@
     "name": "Red Shamrock Building and Remodeling",
     "table": "74",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "Red Shamrock Building and Remodeling is a local contractor providing residential remodeling and general contracting work in the Altoona area. Jobs are typically in construction trades and labor."
+    "description": "Red Shamrock Building and Remodeling is a local contractor providing residential remodeling and general contracting work in the Altoona area. Jobs are typically in construction trades and labor.",
     "booth": {
       "x": 73.1,
       "y": 61.8,
@@ -891,7 +891,7 @@
     "name": "Reliance Bank",
     "table": "75",
     "industry": "Business / Finance / Insurance",
-    "description": "Reliance Bank is a community bank with branches in the Altoona area that provides personal and business banking services. Jobs commonly include tellers, customer service, lending, and back-office roles."
+    "description": "Reliance Bank is a community bank with branches in the Altoona area that provides personal and business banking services. Jobs commonly include tellers, customer service, lending, and back-office roles.",
     "booth": {
       "x": 75.2,
       "y": 66.8,
@@ -903,7 +903,7 @@
     "name": "Renewal by Anderson",
     "table": "76",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "Renewal by Andersen is a window and door replacement company that hires sales and installation crews in central Pennsylvania. Roles commonly include installers, project technicians, and sales or scheduling staff."
+    "description": "Renewal by Andersen is a window and door replacement company that hires sales and installation crews in central Pennsylvania. Roles commonly include installers, project technicians, and sales or scheduling staff.",
     "booth": {
       "x": 80.6,
       "y": 63.4,
@@ -915,7 +915,7 @@
     "name": "Rockland Manufacturing Company",
     "table": "77",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "Rockland Manufacturing is based in Bedford and makes attachments for heavy equipment such as buckets and thumbs. Jobs commonly include welding/fabrication, machining, and logistics roles."
+    "description": "Rockland Manufacturing is based in Bedford and makes attachments for heavy equipment such as buckets and thumbs. Jobs commonly include welding/fabrication, machining, and logistics roles.",
     "booth": {
       "x": 80.6,
       "y": 58.7,
@@ -927,7 +927,7 @@
     "name": "Saint Francis University",
     "table": "78",
     "industry": "Education / Training",
-    "description": "Saint Francis University in Loretto is a private university that provides undergraduate and graduate education. Jobs include faculty, student services, facilities, and administrative roles."
+    "description": "Saint Francis University in Loretto is a private university that provides undergraduate and graduate education. Jobs include faculty, student services, facilities, and administrative roles.",
     "booth": {
       "x": 80.6,
       "y": 55.4,
@@ -939,7 +939,7 @@
     "name": "Skills of Central PA",
     "table": "79",
     "industry": "Healthcare / Human Services",
-    "description": "Skills of Central PA provides services for people with intellectual and developmental disabilities and also offers mental health supports in the region. Jobs commonly include direct support professionals, residential staff, and employment services roles."
+    "description": "Skills of Central PA provides services for people with intellectual and developmental disabilities and also offers mental health supports in the region. Jobs commonly include direct support professionals, residential staff, and employment services roles.",
     "booth": {
       "x": 82.5,
       "y": 52.4,
@@ -951,7 +951,7 @@
     "name": "Spherion Staffing and Recruiting",
     "table": "80",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "Spherion operates a staffing office in Altoona that recruits and places workers into temporary, temp-to-hire, and direct-hire jobs. Roles often include light industrial, clerical, and skilled trades placements depending on local demand."
+    "description": "Spherion operates a staffing office in Altoona that recruits and places workers into temporary, temp-to-hire, and direct-hire jobs. Roles often include light industrial, clerical, and skilled trades placements depending on local demand.",
     "booth": {
       "x": 82.5,
       "y": 49.2,
@@ -963,7 +963,7 @@
     "name": "Spring Cove School District",
     "table": "81",
     "industry": "Education / Training",
-    "description": "Spring Cove School District operates public schools in the Roaring Spring area of Blair County. Hiring includes teachers, support staff, custodial, food service, and transportation roles."
+    "description": "Spring Cove School District operates public schools in the Roaring Spring area of Blair County. Hiring includes teachers, support staff, custodial, food service, and transportation roles.",
     "booth": {
       "x": 82.5,
       "y": 44.1,
@@ -975,7 +975,7 @@
     "name": "Stuckey Automotive",
     "table": "82",
     "industry": "Transportation / Logistics",
-    "description": "Stuckey Automotive operates car dealerships and service centers in central Pennsylvania, including the Altoona area. Jobs include automotive technicians, service advisors, parts staff, and sales."
+    "description": "Stuckey Automotive operates car dealerships and service centers in central Pennsylvania, including the Altoona area. Jobs include automotive technicians, service advisors, parts staff, and sales.",
     "booth": {
       "x": 82.5,
       "y": 40.6,
@@ -987,7 +987,7 @@
     "name": "Student Transportation of America - Altoona",
     "table": "83",
     "industry": "Transportation / Logistics",
-    "description": "Student Transportation of America (STA) provides school bus and van transportation for eligible Altoona Area School District students. Jobs commonly include bus drivers and mechanics."
+    "description": "Student Transportation of America (STA) provides school bus and van transportation for eligible Altoona Area School District students. Jobs commonly include bus drivers and mechanics.",
     "booth": {
       "x": 82.5,
       "y": 36.9,
@@ -999,7 +999,7 @@
     "name": "Sunset Support Services LLC.",
     "table": "84",
     "industry": "Healthcare / Human Services",
-    "description": "Sunset Support Services provides residential and day program supports for individuals with intellectual disabilities. Jobs commonly include direct support professionals and program staff."
+    "description": "Sunset Support Services provides residential and day program supports for individuals with intellectual disabilities. Jobs commonly include direct support professionals and program staff.",
     "booth": {
       "x": 86.4,
       "y": 36.9,
@@ -1011,7 +1011,7 @@
     "name": "Super 8 By Wyndham",
     "table": "85",
     "industry": "Retail / Hospitality / Food Service",
-    "description": "Super 8 by Wyndham operates a hotel in Altoona that provides lodging for travelers. Jobs commonly include front desk, housekeeping, and maintenance."
+    "description": "Super 8 by Wyndham operates a hotel in Altoona that provides lodging for travelers. Jobs commonly include front desk, housekeeping, and maintenance.",
     "booth": {
       "x": 86.4,
       "y": 40.8,
@@ -1023,7 +1023,7 @@
     "name": "The Academy Preschool and Early Education Center",
     "table": "86",
     "industry": "Education / Training",
-    "description": "The Academy Preschool & Early Education Center operates childcare and early learning programs, including a location in Altoona. Jobs commonly include childcare teachers and classroom aides."
+    "description": "The Academy Preschool & Early Education Center operates childcare and early learning programs, including a location in Altoona. Jobs commonly include childcare teachers and classroom aides.",
     "booth": {
       "x": 87.7,
       "y": 47.0,
@@ -1035,7 +1035,7 @@
     "name": "JusticeWorks Youth Care",
     "table": "87",
     "industry": "Healthcare / Human Services",
-    "description": "JusticeWorks provides child welfare and juvenile justice-related services for youth and families in Pennsylvania, including work connected to county human services. Jobs commonly include casework, youth services, and transportation support roles."
+    "description": "JusticeWorks provides child welfare and juvenile justice-related services for youth and families in Pennsylvania, including work connected to county human services. Jobs commonly include casework, youth services, and transportation support roles.",
     "booth": {
       "x": 91.9,
       "y": 44.4,
@@ -1047,7 +1047,7 @@
     "name": "Traditional Home Health Care",
     "table": "88",
     "industry": "Healthcare / Human Services",
-    "description": "Traditional Home Health Care provides home health, private duty, and non-medical home care services in Pennsylvania, including personal care supports. Jobs commonly include home health aides, personal care aides, and nursing roles."
+    "description": "Traditional Home Health Care provides home health, private duty, and non-medical home care services in Pennsylvania, including personal care supports. Jobs commonly include home health aides, personal care aides, and nursing roles.",
     "booth": {
       "x": 91.9,
       "y": 36.9,
@@ -1059,7 +1059,7 @@
     "name": "Greenwood Pools & Spas",
     "table": "89",
     "industry": "Retail / Hospitality / Food Service",
-    "description": "Greenwood Pools & Spas sells, installs, and services swimming pools and hot tubs in the Altoona area. Jobs commonly include installers, service technicians, and retail/support staff."
+    "description": "Greenwood Pools & Spas sells, installs, and services swimming pools and hot tubs in the Altoona area. Jobs commonly include installers, service technicians, and retail/support staff.",
     "booth": {
       "x": 91.9,
       "y": 36.5,
@@ -1071,7 +1071,7 @@
     "name": "Wright Knox Motor Lines Inc.",
     "table": "90",
     "industry": "Transportation / Logistics",
-    "description": "Wright-Knox Motor Lines is a trucking company based in Armagh, Pennsylvania that provides freight transportation services. Jobs commonly include CDL drivers and shop/dispatch support."
+    "description": "Wright-Knox Motor Lines is a trucking company based in Armagh, Pennsylvania that provides freight transportation services. Jobs commonly include CDL drivers and shop/dispatch support.",
     "booth": {
       "x": 91.9,
       "y": 33.6,
@@ -1083,7 +1083,7 @@
     "name": "Focus Behavioral Health Inc",
     "table": "91",
     "industry": "Healthcare / Human Services",
-    "description": "Focus Behavioral Health provides services such as autism and intellectual disability supports, including in-home and community assistance. Jobs commonly include direct support professionals and program staff."
+    "description": "Focus Behavioral Health provides services such as autism and intellectual disability supports, including in-home and community assistance. Jobs commonly include direct support professionals and program staff.",
     "booth": {
       "x": 87.7,
       "y": 31.8,
@@ -1095,7 +1095,7 @@
     "name": "The Baltimore Life Companies",
     "table": "92",
     "industry": "Business / Finance / Insurance",
-    "description": "The Baltimore Life Companies sells life insurance and related financial products. Jobs commonly include insurance sales, underwriting, and customer service roles."
+    "description": "The Baltimore Life Companies sells life insurance and related financial products. Jobs commonly include insurance sales, underwriting, and customer service roles.",
     "booth": {
       "x": 77.3,
       "y": 31.3,
@@ -1107,7 +1107,7 @@
     "name": "Dayton Freight Lines",
     "table": "93",
     "industry": "Transportation / Logistics",
-    "description": "Dayton Freight Lines is a regional less‑than‑truckload (LTL) freight carrier that safely transports and delivers shipments for businesses across the Midwest and beyond. Jobs commonly include truck drivers, dock workers, customer service representatives, and operations supervisors."
+    "description": "Dayton Freight Lines is a regional less‑than‑truckload (LTL) freight carrier that safely transports and delivers shipments for businesses across the Midwest and beyond. Jobs commonly include truck drivers, dock workers, customer service representatives, and operations supervisors.",
     "booth": {
       "x": 72.7,
       "y": 31.3,
@@ -1119,7 +1119,7 @@
     "name": "Vitro Automotive",
     "table": "94",
     "industry": "Manufacturing / Skilled Trades",
-    "description": "Vitro operates automotive glass manufacturing operations, including the former Pittsburgh Glass Works plant in Tipton. Jobs in the area are typically in manufacturing, maintenance, and warehouse/shipping."
+    "description": "Vitro operates automotive glass manufacturing operations, including the former Pittsburgh Glass Works plant in Tipton. Jobs in the area are typically in manufacturing, maintenance, and warehouse/shipping.",
     "booth": {
       "x": 68.1,
       "y": 31.3,
@@ -1131,7 +1131,7 @@
     "name": "The Pennsylvania State University",
     "table": "95",
     "industry": "Education / Training",
-    "description": "The Pennsylvania State University operates the Penn State Altoona campus and other facilities in the region. Jobs include faculty, staff, facilities, and student-support roles."
+    "description": "The Pennsylvania State University operates the Penn State Altoona campus and other facilities in the region. Jobs include faculty, staff, facilities, and student-support roles.",
     "booth": {
       "x": 63.6,
       "y": 31.3,
@@ -1143,7 +1143,7 @@
     "name": "LAMPIRE Biological Laboratories",
     "table": "96",
     "industry": "Healthcare / Human Services",
-    "description": "LAMPIRE Biological Laboratories produces biological reagents and provides contract lab and manufacturing services, with facilities in the Everett area. Jobs can include lab technicians, animal care, manufacturing, and quality roles."
+    "description": "LAMPIRE Biological Laboratories produces biological reagents and provides contract lab and manufacturing services, with facilities in the Everett area. Jobs can include lab technicians, animal care, manufacturing, and quality roles.",
     "booth": {
       "x": 59.1,
       "y": 31.3,
@@ -1155,7 +1155,7 @@
     "name": "PA CareerLink® Blair County",
     "table": "CL",
     "industry": "Government / Public Service",
-    "description": "PA CareerLink® Blair County is a one-stop workforce center in Altoona that connects job seekers with job search help, training referrals, and employer services."
+    "description": "PA CareerLink® Blair County is a one-stop workforce center in Altoona that connects job seekers with job search help, training referrals, and employer services.",
     "booth": {
       "x": 23.8,
       "y": 30.7,
@@ -1167,7 +1167,7 @@
     "name": "Office Of Unemployment Compensation/Rapid Response Team",
     "table": "P1",
     "industry": "Government / Public Service",
-    "description": "Pennsylvania’s unemployment compensation and trade-related programs help eligible workers access unemployment benefits. The Rapid Respone team assists employees with support and services during company closures and layoffs."
+    "description": "Pennsylvania’s unemployment compensation and trade-related programs help eligible workers access unemployment benefits. The Rapid Respone team assists employees with support and services during company closures and layoffs.",
     "booth": {
       "x": 31.1,
       "y": 30.7,
@@ -1179,7 +1179,7 @@
     "name": "Office of Vocational Rehabilitation (OVR)",
     "table": "P2",
     "industry": "Government / Public Service",
-    "description": "Pennsylvania’s Office of Vocational Rehabilitation helps people with disabilities prepare for, get, or keep employment through individualized services. Roles are typically counseling, case management, and program support."
+    "description": "Pennsylvania’s Office of Vocational Rehabilitation helps people with disabilities prepare for, get, or keep employment through individualized services. Roles are typically counseling, case management, and program support.",
     "booth": {
       "x": 36.3,
       "y": 31.3,
@@ -1191,7 +1191,7 @@
     "name": "Greater Altoona Career & Technology Center",
     "table": "P3",
     "industry": "Education / Training",
-    "description": "The Greater Altoona Career & Technology Center provides career and technical training for high school students and adults, including hands-on adult programs and certifications. Jobs include instructors, administrative support, and program staff."
+    "description": "The Greater Altoona Career & Technology Center provides career and technical training for high school students and adults, including hands-on adult programs and certifications. Jobs include instructors, administrative support, and program staff.",
     "booth": {
       "x": 40.9,
       "y": 31.3,
@@ -1203,7 +1203,7 @@
     "name": "Center for Community Action (CCA)",
     "table": "P4",
     "industry": "Government / Public Service",
-    "description": "Center for Community Action is a nonprofit that provides services to low-income individuals and families across Blair County and nearby counties, including housing and energy-related assistance. Jobs commonly include case management and program support roles."
+    "description": "Center for Community Action is a nonprofit that provides services to low-income individuals and families across Blair County and nearby counties, including housing and energy-related assistance. Jobs commonly include case management and program support roles.",
     "booth": {
       "x": 49.9,
       "y": 31.3,
@@ -1215,7 +1215,7 @@
     "name": "Goodwill of the Southern Alleghenies",
     "table": "P5",
     "industry": "Government / Public Service",
-    "description": "Goodwill of the Southern Alleghenies is a nonprofit that runs donation/retail stores and provides workforce development services, including partnering at PA CareerLink® Blair County. Jobs commonly include retail, donation processing, and employment services roles."
+    "description": "Goodwill of the Southern Alleghenies is a nonprofit that runs donation/retail stores and provides workforce development services, including partnering at PA CareerLink® Blair County. Jobs commonly include retail, donation processing, and employment services roles.",
     "booth": {
       "x": 50.1,
       "y": 31.3,
@@ -1227,7 +1227,7 @@
     "name": "PA Department of Treasury",
     "table": "P6",
     "industry": "Government / Public Service",
-    "description": "The Pennsylvania Department of Treasury manages state funds and programs such as unclaimed property. Jobs commonly include finance, accounting, customer service, and administrative roles."
+    "description": "The Pennsylvania Department of Treasury manages state funds and programs such as unclaimed property. Jobs commonly include finance, accounting, customer service, and administrative roles.",
     "booth": {
       "x": 54.5,
       "y": 31.3,

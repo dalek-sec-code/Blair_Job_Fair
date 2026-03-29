@@ -910,11 +910,11 @@
     }
   },
   {
-    "name": "Penn Highlands Healthcare",
+    "name": "New Enterprise Stone & Lime Co. Inc.",
     "table": "71",
-    "industry": "Healthcare / Human Services",
-    "description": "Penn Highlands Healthcare is a hospital and clinic system that operates facilities across the region, including primary care services in Altoona. Jobs commonly include healthcare providers, nursing, and clinic support staff.",
-    "website":	"https://www.phhealthcare.org/phh-careers/explore-penn-highlands-career-opportunities",
+    "industry": "Manufacturing / Skilled Trades",
+    "description": "New Enterprise Stone & Lime operates quarries and plants that produce aggregates, asphalt, and ready-mix concrete, including a Roaring Spring location. Jobs commonly include equipment operators, drivers, and plant or quarry workers.",
+    "website":	"https://www.nesl.com/careers/",
     "booth": {
       "x": 62.7,
       "y": 66.8,
@@ -923,11 +923,11 @@
     }
   },
   {
-    "name": "New Enterprise Stone & Lime Co. Inc.",
+    "name": "Penn Highlands Healthcare",
     "table": "72",
-    "industry": "Manufacturing / Skilled Trades",
-    "description": "New Enterprise Stone & Lime operates quarries and plants that produce aggregates, asphalt, and ready-mix concrete, including a Roaring Spring location. Jobs commonly include equipment operators, drivers, and plant or quarry workers.",
-    "website":	"https://www.nesl.com/careers/",
+    "industry": "Healthcare / Human Services",
+    "description": "Penn Highlands Healthcare is a hospital and clinic system that operates facilities across the region, including primary care services in Altoona. Jobs commonly include healthcare providers, nursing, and clinic support staff.",
+    "website":	"https://www.phhealthcare.org/phh-careers/explore-penn-highlands-career-opportunities",
     "booth": {
       "x": 62.7,
       "y": 62.0,

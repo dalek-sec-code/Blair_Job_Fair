@@ -520,7 +520,20 @@
       employers = data.sort((a, b) => a.name.localeCompare(b.name));
 
       populateIndustryFilter();
-      renderEmployerList();
+renderEmployerList();
+
+// 🔥 NEW: handle pre-selected employer from URL
+const params = new URLSearchParams(window.location.search);
+const tableFromUrl = params.get("table");
+
+if (tableFromUrl) {
+  const match = employers.find(emp => String(emp.table) === String(tableFromUrl));
+  if (match) {
+    selectedEmployerName = match.name;
+    setHighlight(match);
+    renderEmployerList();
+  }
+}
     } catch (error) {
       console.error("Failed to load employer data:", error);
       resultsMeta.textContent = "Unable to load employer data.";
